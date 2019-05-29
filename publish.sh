@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-while IFS=, read -r prefix name label version || [[ -n "${prefix}" ]]; do
+while IFS=, read -r prefix version name label || [[ -n "${prefix}" ]]; do
     mkdir -p build/modules
 
     cd build
