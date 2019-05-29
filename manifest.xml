@@ -4,7 +4,7 @@
     <name>__NAME__</name>
     <label>__LABEL__</label>
     <prefix>__PREFIX__</prefix>
-    <version>0.0.1</version>
+    <version>__VERSION__</version>
     <dependencies>
         <vtiger_version>6.0.0rc</vtiger_version>
         <vtiger_max_version>7.*</vtiger_max_version>
@@ -12,15 +12,15 @@
     <license>
         <inline><![CDATA[
  ********************************************************************************
- * The contents of these fileis are subject to the Mozilla Public License Version 1.1
- * ("License"); You may not use this file except in compliance with the License.
- * Software distributed under the License is distributed on an  "AS IS"  basis,
+ * The contents of these files are subject to the MIT License
+ * You may not use this file except in compliance with the License.
+ * Software distributed under the License is distributed on an  "AS IS" basis,
  * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for
  * the specific language governing rights and limitations under the License.
  ********************************************************************************
- *  Language     : Italiano
- *  Version      : 5.1
- *  Author       :
+ *  Language     : __LABEL__
+ *  Version      : __VERSION__
+ *  Author       : Francesco Bianco
  ********************************************************************************
 ]]></inline>
     </license>
