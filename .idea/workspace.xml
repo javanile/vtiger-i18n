@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8cec82c-e2cd-4b53-9c60-485acb633d96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vtiger-i18n.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fetch.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/WSAPP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ar_ae/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/de_de/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Mobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/ModTracker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/WSAPP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_gb/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/CustomerPortal_Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Mobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/ModTracker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Proposal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/MenuEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/WSAPP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/en_us/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Proposal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Payments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_es/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/es_mx/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Mobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/ModTracker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/WSAPP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/fr_fr/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Mobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/ModTracker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/WSAPP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/hu_hu/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/it_it/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/nl_nl/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Mobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/ModTracker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Payments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/WSAPP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pl_pl/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/CustomerPortal_Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Mobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/ModTracker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Proposal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/MenuEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/WSAPP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/pt_br/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ro_ro/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/ru_ru/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/sv_se/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Documents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/EmailTemplates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Faq.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Google.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/HelpDesk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/MailManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/ModComments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Portal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/PriceBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/ProjectMilestone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/ProjectTask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/PurchaseOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Quotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/RecycleBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Reports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/SalesOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/ServiceContracts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/CronTasks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/CustomerPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/EmailTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/ExtensionStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/LayoutEditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Leads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/MailConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/ModuleManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/PBXManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/PickListDependency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Picklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Potentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Profiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Roles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/SMSNotifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/SharingAccess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Webforms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Settings/Workflows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Vendors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Vtiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/tr_tr/Webservices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publish.sh" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publish.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/languages/WSAPP.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/languages/it_it/Reports.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2973" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Organi</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/languages</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fetch.sh" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/languages/it_it/Vtiger.php" />
+        <option value="$PROJECT_DIR$/languages/it_it/Settings/Vtiger.php" />
+        <option value="$PROJECT_DIR$/languages/WSAPP.php" />
+        <option value="$PROJECT_DIR$/manifest.xml" />
+        <option value="$PROJECT_DIR$/languages.csv" />
+        <option value="$PROJECT_DIR$/packages.txt" />
+        <option value="$PROJECT_DIR$/build.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="199" />
+    <option name="y" value="49" />
+    <option name="width" value="1280" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vtiger-i18n" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vtiger-i18n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vtiger-i18n" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vtiger-i18n" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8cec82c-e2cd-4b53-9c60-485acb633d96" name="Default Changelist" comment="" />
+      <created>1559127729690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559127729690</updated>
+      <workItem from="1559127731114" duration="3811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3811000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1600" height="823" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19833119" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.28454173" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/languages/it_it/ProjectTask.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/it_it/Accounts.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/WSAPP.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/it_it/Reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2973" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/manifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/manifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
