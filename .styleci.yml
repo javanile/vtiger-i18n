@@ -6,3 +6,22 @@ enabled:
 
 disabled:
 - no_empty_phpdoc
+
+finder:  
+  exclude:    
+    - ar_ae
+    - de_de
+    - en_gb
+    #- en_us
+    - es_es
+    - es_mx
+    - fr_fr
+    - hu_hu
+    #- it_it
+    - nl_nl
+    - pl_pl
+    - pt_br
+    - ro_ro
+    - ru_ru
+    - sv_se
+    - tr_tr
