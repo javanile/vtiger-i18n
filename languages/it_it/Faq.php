@@ -7,20 +7,20 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  ************************************************************************************/
-$languageStrings = array(
-	'Faq'                          => 'FAQ'                         , 
-	'SINGLE_Faq'                   => 'Faq'                         , 
-	'LBL_RECORDS_LIST'             => 'FAQs List'                   , 
-	'LBL_ADD_RECORD'               => 'Add FAQ'                     , 
-	'LBL_FAQ_INFORMATION'          => 'Informazione Faq'            , 
-	'LBL_COMMENT_INFORMATION'      => 'Informazioni Commento'       , 
-	'Question'                     => 'Domanda'                     , 
-	'Answer'                       => 'Risposta'                    , 
-	'Comments'                     => 'Commenti'                    , 
-	'Faq No'                       => 'No. Faq'                     , 
-	'General'                      => 'Generale'                    , 
-	'Draft'                        => 'Bozza'                       , 
-	'Published'                    => 'Pubblicato'                  , 
-	'Obsolete'                     => 'Obsoleto'                    , 
-	'LBL_SOLUTION'                 => 'SOLUZIONE'                   , 
-);
+$languageStrings = [
+    'Faq'                          => 'FAQ',
+    'SINGLE_Faq'                   => 'Faq',
+    'LBL_RECORDS_LIST'             => 'FAQs List',
+    'LBL_ADD_RECORD'               => 'Add FAQ',
+    'LBL_FAQ_INFORMATION'          => 'Informazione Faq',
+    'LBL_COMMENT_INFORMATION'      => 'Informazioni Commento',
+    'Question'                     => 'Domanda',
+    'Answer'                       => 'Risposta',
+    'Comments'                     => 'Commenti',
+    'Faq No'                       => 'No. Faq',
+    'General'                      => 'Generale',
+    'Draft'                        => 'Bozza',
+    'Published'                    => 'Pubblicato',
+    'Obsolete'                     => 'Obsoleto',
+    'LBL_SOLUTION'                 => 'SOLUZIONE',
+];

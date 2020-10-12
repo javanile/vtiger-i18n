@@ -7,21 +7,21 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  *************************************************************************************/
-$languageStrings = array(
-	// Basic Strings
-	'PriceBooks' => 'Price Books',
-	'SINGLE_PriceBooks' => 'Price Book',
-	'LBL_ADD_RECORD' => 'Add Price Book',
-	'LBL_RECORDS_LIST' => 'Price Books List',
+$languageStrings = [
+    // Basic Strings
+    'PriceBooks'        => 'Price Books',
+    'SINGLE_PriceBooks' => 'Price Book',
+    'LBL_ADD_RECORD'    => 'Add Price Book',
+    'LBL_RECORDS_LIST'  => 'Price Books List',
 
-	// Blocks
-	'LBL_PRICEBOOK_INFORMATION' => 'Price Book Details',
-	'LBL_EDIT_LIST_PRICE' => 'Edit List Price',
+    // Blocks
+    'LBL_PRICEBOOK_INFORMATION' => 'Price Book Details',
+    'LBL_EDIT_LIST_PRICE'       => 'Edit List Price',
 
-	//Field Labels
-	'Price Book Name' => 'Price Book Name',
-	'PriceBook No' => 'Price Book Number',
+    //Field Labels
+    'Price Book Name' => 'Price Book Name',
+    'PriceBook No'    => 'Price Book Number',
 
-	'LBL_UNIT_PRICE' => 'Unit Price',
-	'LBL_ADD_TO' => 'Add to',
-);
+    'LBL_UNIT_PRICE' => 'Unit Price',
+    'LBL_ADD_TO'     => 'Add to',
+];
