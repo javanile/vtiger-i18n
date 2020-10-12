@@ -3,15 +3,16 @@ version: '3'
 services:
 
   vtiger:
-    image: javanile/vtiger:7.1.0
+    image: javanile/vtiger-dev:7.1.0
     environment:
       - MYSQL_HOST=mysql
       - MYSQL_DATABASE=vtiger
       - MYSQL_ROOT_PASSWORD=secret
     volumes:
-      - ./languages:/var/www/html/vtiger/languages:rw
+      - ./languages:/var/lib/vtiger/languages:rw
+      - vtiger:/var/lib/vtiger:rw
     ports:
-      - "25080:80"
+      - 8080:80
     links:
       - mysql
 
@@ -25,3 +26,4 @@ services:
 
 volumes:
   mysql:
+  vtiger:
