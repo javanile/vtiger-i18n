@@ -15,11 +15,11 @@
  *  Author       : JPL TSolucio, S. L. Joe Bordes
  *************************************************************************************/
 $languageStrings = array(
-	//Actions
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convertir Asignación de PreContacto',
-	'LBL_ORGANIZATIONS' => 'Cuentas',
-	'LBL_CONTACTS' => 'Contactos',
-	'LBL_OPPURTUNITIES' => 'Oportunidades',
+    //Actions
+    'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convertir Asignación de PreContacto',
+    'LBL_ORGANIZATIONS' => 'Cuentas',
+    'LBL_CONTACTS' => 'Contactos',
+    'LBL_OPPURTUNITIES' => 'Oportunidades',
 );
 $jsLanguageStrings = array(
 );

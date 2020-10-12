@@ -9,82 +9,82 @@
  ************************************************************************************/
 $languageStrings = array(
     'Calendar'                     => 'Calendar'                       , 
-	'SINGLE_Calendar'              => 'To Do'                       , 
-	'LBL_ADD_TASK'                 => 'Add To Do'                    , 
-	'LBL_ADD_EVENT'                => 'Add Event'                   , 
-	'LBL_RECORDS_LIST'             => 'List View'                   , 
-	'LBL_EVENTS'                   => 'Events'                      , 
-	'LBL_TODOS'                    => 'To Dos'                      , 
-	'LBL_CALENDAR_SETTINGS'        => 'Calendar Settings'           , // TODO: Review
-	'LBL_CALENDAR_SHARING'         => 'Calendar Sharing'            , // TODO: Review
-	'LBL_DEFAULT_EVENT_DURATION'   => 'Default Event Duration'      , // TODO: Review
-	'LBL_CALL'                     => 'Call'                        , // TODO: Review
-	'LBL_OTHER_EVENTS'             => 'Other Events'                , // TODO: Review
-	'LBL_MINUTES'                  => 'Minutes'                     , // TODO: Review
-	'LBL_SELECT_USERS'             => 'Select Users'                , // TODO: Review
-	'LBL_EVENT_OR_TASK'            => 'Event / To Do'                ,
-	'LBL_TASK_INFORMATION'         => 'To Do Information'            , 
+    'SINGLE_Calendar'              => 'To Do'                       , 
+    'LBL_ADD_TASK'                 => 'Add To Do'                    , 
+    'LBL_ADD_EVENT'                => 'Add Event'                   , 
+    'LBL_RECORDS_LIST'             => 'List View'                   , 
+    'LBL_EVENTS'                   => 'Events'                      , 
+    'LBL_TODOS'                    => 'To Dos'                      , 
+    'LBL_CALENDAR_SETTINGS'        => 'Calendar Settings'           , // TODO: Review
+    'LBL_CALENDAR_SHARING'         => 'Calendar Sharing'            , // TODO: Review
+    'LBL_DEFAULT_EVENT_DURATION'   => 'Default Event Duration'      , // TODO: Review
+    'LBL_CALL'                     => 'Call'                        , // TODO: Review
+    'LBL_OTHER_EVENTS'             => 'Other Events'                , // TODO: Review
+    'LBL_MINUTES'                  => 'Minutes'                     , // TODO: Review
+    'LBL_SELECT_USERS'             => 'Select Users'                , // TODO: Review
+    'LBL_EVENT_OR_TASK'            => 'Event / To Do'                ,
+    'LBL_TASK_INFORMATION'         => 'To Do Information'            , 
     'LBL_EVENT_INFORMATION'        => 'Event Details'               ,
-	'Subject'                      => 'Subject'                     , 
-	'Start Date & Time'            => 'Start Date & Time'           , 
-	'Activity Type'                => 'Activity Type'               , 
-	'Send Notification'            => 'Send Notification'           , 
-	'Location'                     => 'Location'                    , 
-	'End Date & Time'              => 'End Date & Time'             ,
-	'Visibility'					=> 'Visibility',
-	'Recurrence'					=> 'Repeat',
-	'Private'						=> 'Private',
-	'Public'						=> 'Public',
-	'LBL_ACTIVITY_TYPES'           => 'Activity Types'              , 
-	'LBL_CONTACTS_SUPPORT_END_DATE' => 'Support End Date'            , 
-	'LBL_CONTACTS_BIRTH_DAY'       => 'Date of Birth'               , 
-	'LBL_ADDED_CALENDARS'          => 'Added Calendars'             , // TODO: Review
-	'Call'                         => 'Call'                        , 
-	'Meeting'                      => 'Meeting'                     , 
-	'Task'                         => 'To Do'                        , // TODO: Review
-	'Planned'                      => 'Planned'                     , 
-	'Completed'                    => 'Completed'                   , 
-	'Pending Input'                => 'Pending Input'               , 
-	'Not Started'                  => 'Not Started'                 , 
-	'Deferred'                     => 'Deferred'                    ,
-	'Held'							=> 'Held',
-	'Not Held'						=> 'Not Held',
-	'Medium'                       => 'Medium'                      , 
-	'LBL_CHANGE_OWNER'             => 'Change Owner'                , 
-	'LBL_EVENT'                    => 'Event'                       , 
-	'LBL_TASK'                     => 'To Do'                        , 
-	'LBL_TASKS'					   => 'To Do'						,
-	'LBL_CALENDAR_VIEW'            => 'Calendar View'               , 
-	'LBL_SHARED_CALENDAR'          => 'Shared Calendar'             , // TODO: Review
-	'LBL_DAY0'                     => 'Sunday'                      , // TODO: Review
-	'LBL_DAY1'                     => 'Monday'                      , // TODO: Review
-	'LBL_DAY2'                     => 'Tuesday'                     , // TODO: Review
-	'LBL_DAY3'                     => 'Wednesday'                   , // TODO: Review
-	'LBL_DAY4'                     => 'Thursday'                    , // TODO: Review
-	'LBL_DAY5'                     => 'Friday'                      , // TODO: Review
-	'LBL_DAY6'                     => 'Saturday'                    , // TODO: Review
-	'first'                        => 'First'                       , // TODO: Review
-	'last'                         => 'Last'                        , // TODO: Review
-	'LBL_DAY_OF_THE_MONTH'         => 'day of the month'            , // TODO: Review
-	'LBL_ON'                       => 'on'                          , // TODO: Review
-	'Daily'                        => 'Day(s)'                      , // TODO: Review
-	'Weekly'                       => 'Week(s)'                     , // TODO: Review
-	'Monthly'                      => 'Month(s)'                    , // TODO: Review
-	'Yearly'                       => 'Year'                        , // TODO: Review
+    'Subject'                      => 'Subject'                     , 
+    'Start Date & Time'            => 'Start Date & Time'           , 
+    'Activity Type'                => 'Activity Type'               , 
+    'Send Notification'            => 'Send Notification'           , 
+    'Location'                     => 'Location'                    , 
+    'End Date & Time'              => 'End Date & Time'             ,
+    'Visibility'                    => 'Visibility',
+    'Recurrence'                    => 'Repeat',
+    'Private'                        => 'Private',
+    'Public'                        => 'Public',
+    'LBL_ACTIVITY_TYPES'           => 'Activity Types'              , 
+    'LBL_CONTACTS_SUPPORT_END_DATE' => 'Support End Date'            , 
+    'LBL_CONTACTS_BIRTH_DAY'       => 'Date of Birth'               , 
+    'LBL_ADDED_CALENDARS'          => 'Added Calendars'             , // TODO: Review
+    'Call'                         => 'Call'                        , 
+    'Meeting'                      => 'Meeting'                     , 
+    'Task'                         => 'To Do'                        , // TODO: Review
+    'Planned'                      => 'Planned'                     , 
+    'Completed'                    => 'Completed'                   , 
+    'Pending Input'                => 'Pending Input'               , 
+    'Not Started'                  => 'Not Started'                 , 
+    'Deferred'                     => 'Deferred'                    ,
+    'Held'                            => 'Held',
+    'Not Held'                        => 'Not Held',
+    'Medium'                       => 'Medium'                      , 
+    'LBL_CHANGE_OWNER'             => 'Change Owner'                , 
+    'LBL_EVENT'                    => 'Event'                       , 
+    'LBL_TASK'                     => 'To Do'                        , 
+    'LBL_TASKS'                       => 'To Do'                        ,
+    'LBL_CALENDAR_VIEW'            => 'Calendar View'               , 
+    'LBL_SHARED_CALENDAR'          => 'Shared Calendar'             , // TODO: Review
+    'LBL_DAY0'                     => 'Sunday'                      , // TODO: Review
+    'LBL_DAY1'                     => 'Monday'                      , // TODO: Review
+    'LBL_DAY2'                     => 'Tuesday'                     , // TODO: Review
+    'LBL_DAY3'                     => 'Wednesday'                   , // TODO: Review
+    'LBL_DAY4'                     => 'Thursday'                    , // TODO: Review
+    'LBL_DAY5'                     => 'Friday'                      , // TODO: Review
+    'LBL_DAY6'                     => 'Saturday'                    , // TODO: Review
+    'first'                        => 'First'                       , // TODO: Review
+    'last'                         => 'Last'                        , // TODO: Review
+    'LBL_DAY_OF_THE_MONTH'         => 'day of the month'            , // TODO: Review
+    'LBL_ON'                       => 'on'                          , // TODO: Review
+    'Daily'                        => 'Day(s)'                      , // TODO: Review
+    'Weekly'                       => 'Week(s)'                     , // TODO: Review
+    'Monthly'                      => 'Month(s)'                    , // TODO: Review
+    'Yearly'                       => 'Year'                        , // TODO: Review
         'LBL_DEFAULT_STATUS_TYPE'      => 'Default Status & Type'       ,
         'LBL_STATUS'                   => 'Status'                      ,
         'LBL_TYPE'                     => 'Type',
-	//Fixing colors for Shared Calendar and My Calendar
-	'LBL_EDIT_COLOR' => 'Edit Color',
-	'LBL_ADD_CALENDAR_VIEW' => 'Add Calendar',
-	'LBL_SELECT_USER_CALENDAR' => 'Select User Calendar',
-	'LBL_SELECT_CALENDAR_COLOR' => 'Select Calendar Color',
-	'LBL_EDITING_CALENDAR_VIEW' => 'Editing User Calendar',
-	'LBL_DELETE_CALENDAR' => 'Delete Calendar',
-	'LBL_SELECT_ACTIVITY_TYPE' => 'Select Activity Type',
-	'Tasks' => 'To Do',
-	'LBL_SELECT_FIELDS_FOR_RANGE' => 'Select Fields for Range',
-	'LBL_DUPLICATE_VIEW_EXIST' => 'Calendar View already exists',
+    //Fixing colors for Shared Calendar and My Calendar
+    'LBL_EDIT_COLOR' => 'Edit Color',
+    'LBL_ADD_CALENDAR_VIEW' => 'Add Calendar',
+    'LBL_SELECT_USER_CALENDAR' => 'Select User Calendar',
+    'LBL_SELECT_CALENDAR_COLOR' => 'Select Calendar Color',
+    'LBL_EDITING_CALENDAR_VIEW' => 'Editing User Calendar',
+    'LBL_DELETE_CALENDAR' => 'Delete Calendar',
+    'LBL_SELECT_ACTIVITY_TYPE' => 'Select Activity Type',
+    'Tasks' => 'To Do',
+    'LBL_SELECT_FIELDS_FOR_RANGE' => 'Select Fields for Range',
+    'LBL_DUPLICATE_VIEW_EXIST' => 'Calendar View already exists',
     
     // For Event Invitation
     'LBL_ACTIVITY_NOTIFICATION' => 'This is a notification that an activity is assigned to you that has been',
@@ -99,23 +99,23 @@ $languageStrings = array(
     'LBL_APP_DESCRIPTION' => 'Description',
     'LBL_REGARDS_STRING' => 'Thanks & Regards',
     'LBL_EVENT_INFORMATION' => 'Event Details',
-	'LBL_UPDATED_INVITATION' => 'Updated Invitation',
-	'LBL_INVITATION' => 'Invitation',
-	//Recurring Events
-	'LBL_EDIT_RECURRING_EVENT' => 'Edit Recurring Event',
-	'LBL_ALL_EVENTS_EDIT_INFO' => 'All events in the series will be changed.</br> Any changes made to other events will be kept.',
-	'LBL_FUTURE_EVENTS_EDIT_INFO' => 'This and all the following events will be changed.</br> Any changes to future events will be lost.',
-	'LBL_ONLY_THIS_EVENT_EDIT_INFO' => 'All other events in the series will remain the same.',
-	'LBL_EDIT_RECURRING_EVENTS_INFO' => 'Would you like to save the changes for',
-	
-	'LBL_DELETE_RECURRING_EVENT' => 'Delete Recurring Event',
-	'LBL_ALL_EVENTS_DELETE_INFO' => 'All events in the series will be deleted.',
-	'LBL_FUTURE_EVENTS_DELETE_INFO' => 'This and all the following events will be deleted.',
-	'LBL_ONLY_THIS_EVENT_DELETE_INFO' => 'All other events in the series will remain the same.',
-	'LBL_DELETE_RECURRING_EVENTS_INFO' => 'Would you like to delete only this event, all events in the series or this and all future events in the series?',
-	'LBL_ONLY_THIS_EVENT' => 'Only This Event',
-	'LBL_FUTURE_EVENTS' => 'Future Events',
-	'LBL_ALL_EVENTS' => 'All Events',
+    'LBL_UPDATED_INVITATION' => 'Updated Invitation',
+    'LBL_INVITATION' => 'Invitation',
+    //Recurring Events
+    'LBL_EDIT_RECURRING_EVENT' => 'Edit Recurring Event',
+    'LBL_ALL_EVENTS_EDIT_INFO' => 'All events in the series will be changed.</br> Any changes made to other events will be kept.',
+    'LBL_FUTURE_EVENTS_EDIT_INFO' => 'This and all the following events will be changed.</br> Any changes to future events will be lost.',
+    'LBL_ONLY_THIS_EVENT_EDIT_INFO' => 'All other events in the series will remain the same.',
+    'LBL_EDIT_RECURRING_EVENTS_INFO' => 'Would you like to save the changes for',
+    
+    'LBL_DELETE_RECURRING_EVENT' => 'Delete Recurring Event',
+    'LBL_ALL_EVENTS_DELETE_INFO' => 'All events in the series will be deleted.',
+    'LBL_FUTURE_EVENTS_DELETE_INFO' => 'This and all the following events will be deleted.',
+    'LBL_ONLY_THIS_EVENT_DELETE_INFO' => 'All other events in the series will remain the same.',
+    'LBL_DELETE_RECURRING_EVENTS_INFO' => 'Would you like to delete only this event, all events in the series or this and all future events in the series?',
+    'LBL_ONLY_THIS_EVENT' => 'Only This Event',
+    'LBL_FUTURE_EVENTS' => 'Future Events',
+    'LBL_ALL_EVENTS' => 'All Events',
 
   'SINGLE_Events' => 'Event',
   'LBL_IMPORT_RECORDS' => 'Import Records',
@@ -146,77 +146,77 @@ $languageStrings = array(
   'LBL_OCTOBER' => 'October',
   'LBL_NOVEMBER' => 'November',
   'LBL_DECEMBER' => 'December',
-	'LBL_CLICK_HERE_TO_VIEW' => 'Click here to view',
+    'LBL_CLICK_HERE_TO_VIEW' => 'Click here to view',
 
-	'LBL_TOTAL_EVENTS_DUPLICATED' => 'No. of duplicate Events skipped',
-	'LBL_TOTAL_TASKS_DUPLICATED' => 'No. of duplicate Tasks skipped',
+    'LBL_TOTAL_EVENTS_DUPLICATED' => 'No. of duplicate Events skipped',
+    'LBL_TOTAL_TASKS_DUPLICATED' => 'No. of duplicate Tasks skipped',
 );
 $jsLanguageStrings = array(
-	'LBL_ADD_EVENT_TASK'           => 'Add Event / To Do'            , 
-	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Task is successfully added to your Calendar', // TODO: Review
-	'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Cannot select related Contacts for Leads', // TODO: Review
+    'LBL_ADD_EVENT_TASK'           => 'Add Event / To Do'            , 
+    'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Task is successfully added to your Calendar', // TODO: Review
+    'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Cannot select related Contacts for Leads', // TODO: Review
         'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Cannot Be Held For Future',
-	
-	//Calendar view label translation
-	'LBL_MONTH' => 'Month',
-	'LBL_TODAY' => 'Today',
-	'LBL_DAY' => 'Day',
-	'LBL_WEEK' => 'Week',
-	
-	'LBL_SUNDAY' => 'Sunday',
-	'LBL_MONDAY' => 'Monday',
-	'LBL_TUESDAY' => 'Tuesday',
-	'LBL_WEDNESDAY' => 'Wednesday',
-	'LBL_THURSDAY' => 'Thursday',
-	'LBL_FRIDAY' => 'Friday',
-	'LBL_SATURDAY' => 'Saturday',
-	
-	'LBL_SUN' => 'Sun',
-	'LBL_MON' => 'Mon',
-	'LBL_TUE' => 'Tue',
-	'LBL_WED' => 'Wed',
-	'LBL_THU' => 'Thu',
-	'LBL_FRI' => 'Fri',
-	'LBL_SAT' => 'Sat',
-	
-	'LBL_JANUARY' => 'January',
-	'LBL_FEBRUARY' => 'February',
-	'LBL_MARCH' => 'March',
-	'LBL_APRIL' => 'April',
-	'LBL_MAY' => 'May',
-	'LBL_JUNE' => 'June',
-	'LBL_JULY' => 'July',
-	'LBL_AUGUST' => 'August',
-	'LBL_SEPTEMBER' => 'September',
-	'LBL_OCTOBER' => 'October',
-	'LBL_NOVEMBER' => 'November',
-	'LBL_DECEMBER' => 'December',
-	
-	'LBL_JAN' => 'Jan',
-	'LBL_FEB' => 'Feb',
-	'LBL_MAR' => 'Mar',
-	'LBL_APR' => 'Apr',
-	'LBL_MAY' => 'May',
-	'LBL_JUN' => 'Jun',
-	'LBL_JUL' => 'Jul',
-	'LBL_AUG' => 'Aug',
-	'LBL_SEP' => 'Sep',
-	'LBL_OCT' => 'Oct',
-	'LBL_NOV' => 'Nov',
-	'LBL_DEC' => 'Dec',
-	
-	'LBL_ALL_DAY' => 'All-Day',
-	
-	'Mobile Call' => 'Mobile Call',
-	//End
-	
-	//Fixing colors for Shared Calendar and My Calendar
-	'JS_CALENDAR_VIEW_COLOR_UPDATED_SUCCESSFULLY' => 'User calendar color updated successfully',
-	'JS_CALENDAR_VIEW_DELETE_CONFIRMATION' => 'Are you sure you want to delete this user Calendar?',
-	'JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY' => 'User calendar added successfully',
-	'JS_CALENDAR_VIEW_DELETED_SUCCESSFULLY' => 'User calendar deleted successfully',
-	'JS_NO_CALENDAR_VIEWS_TO_ADD' => 'No Users Calendar to add',
-	'JS_EDIT_CALENDAR' => 'Edit Calendar',
+    
+    //Calendar view label translation
+    'LBL_MONTH' => 'Month',
+    'LBL_TODAY' => 'Today',
+    'LBL_DAY' => 'Day',
+    'LBL_WEEK' => 'Week',
+    
+    'LBL_SUNDAY' => 'Sunday',
+    'LBL_MONDAY' => 'Monday',
+    'LBL_TUESDAY' => 'Tuesday',
+    'LBL_WEDNESDAY' => 'Wednesday',
+    'LBL_THURSDAY' => 'Thursday',
+    'LBL_FRIDAY' => 'Friday',
+    'LBL_SATURDAY' => 'Saturday',
+    
+    'LBL_SUN' => 'Sun',
+    'LBL_MON' => 'Mon',
+    'LBL_TUE' => 'Tue',
+    'LBL_WED' => 'Wed',
+    'LBL_THU' => 'Thu',
+    'LBL_FRI' => 'Fri',
+    'LBL_SAT' => 'Sat',
+    
+    'LBL_JANUARY' => 'January',
+    'LBL_FEBRUARY' => 'February',
+    'LBL_MARCH' => 'March',
+    'LBL_APRIL' => 'April',
+    'LBL_MAY' => 'May',
+    'LBL_JUNE' => 'June',
+    'LBL_JULY' => 'July',
+    'LBL_AUGUST' => 'August',
+    'LBL_SEPTEMBER' => 'September',
+    'LBL_OCTOBER' => 'October',
+    'LBL_NOVEMBER' => 'November',
+    'LBL_DECEMBER' => 'December',
+    
+    'LBL_JAN' => 'Jan',
+    'LBL_FEB' => 'Feb',
+    'LBL_MAR' => 'Mar',
+    'LBL_APR' => 'Apr',
+    'LBL_MAY' => 'May',
+    'LBL_JUN' => 'Jun',
+    'LBL_JUL' => 'Jul',
+    'LBL_AUG' => 'Aug',
+    'LBL_SEP' => 'Sep',
+    'LBL_OCT' => 'Oct',
+    'LBL_NOV' => 'Nov',
+    'LBL_DEC' => 'Dec',
+    
+    'LBL_ALL_DAY' => 'All-Day',
+    
+    'Mobile Call' => 'Mobile Call',
+    //End
+    
+    //Fixing colors for Shared Calendar and My Calendar
+    'JS_CALENDAR_VIEW_COLOR_UPDATED_SUCCESSFULLY' => 'User calendar color updated successfully',
+    'JS_CALENDAR_VIEW_DELETE_CONFIRMATION' => 'Are you sure you want to delete this user Calendar?',
+    'JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY' => 'User calendar added successfully',
+    'JS_CALENDAR_VIEW_DELETED_SUCCESSFULLY' => 'User calendar deleted successfully',
+    'JS_NO_CALENDAR_VIEWS_TO_ADD' => 'No Users Calendar to add',
+    'JS_EDIT_CALENDAR' => 'Edit Calendar',
 
   'LBL_TOMORROW' => 'Tomorrow',
   'JS_EVENT_UPDATED' => 'Event Updated',

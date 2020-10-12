@@ -8,22 +8,22 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CronTasks' => 'Harmonogram',
+    'CronTasks' => 'Harmonogram',
 
-	//Basic Field Names
-	'Id' => 'Id',
-	'Cron Job' => 'Zadania wyzwalacza',
-	'Frequency' => 'Częstotliwość',
+    //Basic Field Names
+    'Id' => 'Id',
+    'Cron Job' => 'Zadania wyzwalacza',
+    'Frequency' => 'Częstotliwość',
     
-	'Status' => 'Status',
-	'Last Start' => 'Start ostatniego skanowania',
-	'Last End' => 'Koniec ostatniego skanowania',
-	'Sequence' => 'Kolejność',
+    'Status' => 'Status',
+    'Last Start' => 'Start ostatniego skanowania',
+    'Last End' => 'Koniec ostatniego skanowania',
+    'Sequence' => 'Kolejność',
 
-	//Actions
-	'LBL_COMPLETED' => 'Ukończone',
-	'LBL_RUNNING' => 'Uruchomione',
-	'LBL_ACTIVE' => 'Aktywny',
-	'LBL_INACTIVE' => 'Nieaktywny',
+    //Actions
+    'LBL_COMPLETED' => 'Ukończone',
+    'LBL_RUNNING' => 'Uruchomione',
+    'LBL_ACTIVE' => 'Aktywny',
+    'LBL_INACTIVE' => 'Nieaktywny',
         'Frequency(H:M)' => 'Częstotliwość (Godz/Min)',
 );

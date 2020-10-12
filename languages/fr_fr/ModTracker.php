@@ -12,5 +12,5 @@
  *************************************************************************************/
 
 $languageStrings = array(
-	'SINGLE_ModTracker' => 'Historique des modifications',
+    'SINGLE_ModTracker' => 'Historique des modifications',
 );

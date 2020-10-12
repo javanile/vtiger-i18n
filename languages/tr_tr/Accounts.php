@@ -8,36 +8,36 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Accounts'                     => 'Müşteriler'                , 
-	'SINGLE_Accounts'              => 'Müşteri'                   , 
-	'LBL_ADD_RECORD'               => 'Add Organization'            , 
-	'LBL_RECORDS_LIST'             => 'Müşteri Listesi'           , 
-	'LBL_ACCOUNT_INFORMATION'      => 'Müşteri Bilgisi'           , 
-	'LBL_SHOW_ACCOUNT_HIERARCHY'   => 'Müşteri Hiyerarşisini göster', 
-	'industry'                     => 'Sektör'                     , 
-	'Account Name'                 => 'Müşteri Adı'              , 
-	'Account No'                   => 'Müşteri No'                , 
-	'Website'                      => 'Web Sayfası'                , 
-	'Ticker Symbol'                => 'Ticker Sembolü'             , 
-	'Member Of'                    => 'Ana Müşteri'               , 
-	'Employees'                    => 'Çalışanlar'               , 
-	'Ownership'                    => 'Ortaklığı'                , 
-	'SIC Code'                     => 'SIC Kodu'                    , 
-	'Other Email'                  => 'Diğer E-Posta Adresi'       , 
-	'Analyst'                      => 'Analist'                     , 
-	'Competitor'                   => 'Rakip'                       , 
-	'Customer'                     => 'Müşteri'                   , 
-	'Integrator'                   => 'Entegrator'                  , 
-	'Investor'                     => 'Yatırımcı'                , 
-	'Press'                        => 'Basın'                      , 
-	'Prospect'                     => 'Prospect'                    , 
-	'Reseller'                     => 'Reseller'                    , 
+    'Accounts'                     => 'Müşteriler'                , 
+    'SINGLE_Accounts'              => 'Müşteri'                   , 
+    'LBL_ADD_RECORD'               => 'Add Organization'            , 
+    'LBL_RECORDS_LIST'             => 'Müşteri Listesi'           , 
+    'LBL_ACCOUNT_INFORMATION'      => 'Müşteri Bilgisi'           , 
+    'LBL_SHOW_ACCOUNT_HIERARCHY'   => 'Müşteri Hiyerarşisini göster', 
+    'industry'                     => 'Sektör'                     , 
+    'Account Name'                 => 'Müşteri Adı'              , 
+    'Account No'                   => 'Müşteri No'                , 
+    'Website'                      => 'Web Sayfası'                , 
+    'Ticker Symbol'                => 'Ticker Sembolü'             , 
+    'Member Of'                    => 'Ana Müşteri'               , 
+    'Employees'                    => 'Çalışanlar'               , 
+    'Ownership'                    => 'Ortaklığı'                , 
+    'SIC Code'                     => 'SIC Kodu'                    , 
+    'Other Email'                  => 'Diğer E-Posta Adresi'       , 
+    'Analyst'                      => 'Analist'                     , 
+    'Competitor'                   => 'Rakip'                       , 
+    'Customer'                     => 'Müşteri'                   , 
+    'Integrator'                   => 'Entegrator'                  , 
+    'Investor'                     => 'Yatırımcı'                , 
+    'Press'                        => 'Basın'                      , 
+    'Prospect'                     => 'Prospect'                    , 
+    'Reseller'                     => 'Reseller'                    , 
         'Type'                         => 'Tip'                         , 
-	'LBL_START_DATE'               => 'Başlama Tarihi'             , 
-	'LBL_END_DATE'                 => 'Bitiş Tarihi'               , 
-	'LBL_DUPLICATES_EXIST'         => 'Organization Name already exists', 
-	'LBL_COPY_SHIPPING_ADDRESS'    => 'Kopya Teslimat Adresi'       , // TODO: Review
-	'LBL_COPY_BILLING_ADDRESS'     => 'Kopya Fatura Adresi'        , // TODO: Review
+    'LBL_START_DATE'               => 'Başlama Tarihi'             , 
+    'LBL_END_DATE'                 => 'Bitiş Tarihi'               , 
+    'LBL_DUPLICATES_EXIST'         => 'Organization Name already exists', 
+    'LBL_COPY_SHIPPING_ADDRESS'    => 'Kopya Teslimat Adresi'       , // TODO: Review
+    'LBL_COPY_BILLING_ADDRESS'     => 'Kopya Fatura Adresi'        , // TODO: Review
     'LBL_IMAGE_INFORMATION' => 'Profil Resmi',
     'Organization Image' => 'Organizasyon Görüntü',
 
@@ -47,9 +47,9 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to Delete?', 
-	'LBL_DELETE_CONFIRMATION'      => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?', 
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?', 
+    'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to Delete?', 
+    'LBL_DELETE_CONFIRMATION'      => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?', 
+    'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?', 
 
   'JS_DUPLICATE_CREATION_CONFIRMATION' => 'Kuruluş Adı zaten Var.Yinelenen bir kayıt oluşturmak istiyor musunuz?',
 

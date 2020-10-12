@@ -38,6 +38,6 @@ $languageStrings = array(
     'LBL_SUCCESSFULL'              => 'Successfull'                 , // TODO: Review
     'LBL_INSTALLATION_LOG'         => 'Installation Log'            , // TODO: Review
     
-	// VEB added
-    'LBL_IMPORT_ZIP'         => 'Importeer ZIP bestand'            	,
+    // VEB added
+    'LBL_IMPORT_ZIP'         => 'Importeer ZIP bestand'                ,
 );

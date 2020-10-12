@@ -15,21 +15,21 @@
  *  Author       : JPL TSolucio, S. L. Joe Bordes
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Nueva Configuración',
-	'SMSNotifier' => 'Configuración Proveedor SMS',
-	'LBL_ADD_CONFIGURATION' => 'Nueva Configuración',
-	'LBL_EDIT_CONFIGURATION' => 'Editar Configuración',
-	'LBL_SELECT_ONE' => 'Selecciona uno',
-	
-	//Fields
-	'providertype' => 'Proveedor',
-	'isactive' => 'Activo',
-	'username' => 'Nombre Usuario',
-	'password' => 'Contraseña',
+    'LBL_ADD_RECORD' => 'Nueva Configuración',
+    'SMSNotifier' => 'Configuración Proveedor SMS',
+    'LBL_ADD_CONFIGURATION' => 'Nueva Configuración',
+    'LBL_EDIT_CONFIGURATION' => 'Editar Configuración',
+    'LBL_SELECT_ONE' => 'Selecciona uno',
+    
+    //Fields
+    'providertype' => 'Proveedor',
+    'isactive' => 'Activo',
+    'username' => 'Nombre Usuario',
+    'password' => 'Contraseña',
 );
 
 $jsLanguageStrings = array(
-	'LBL_DELETE_CONFIRMATION' => '¿Estás seguro que quieres eliminar esta configuración de proveedor SMS?',
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Se ha eliminado la configuración del proveedor SMS',
-	'JS_CONFIGURATION_SAVED' => 'Se ha guardado la configuración del proveedor SMS',
-);	
+    'LBL_DELETE_CONFIRMATION' => '¿Estás seguro que quieres eliminar esta configuración de proveedor SMS?',
+    'JS_RECORD_DELETED_SUCCESSFULLY' => 'Se ha eliminado la configuración del proveedor SMS',
+    'JS_CONFIGURATION_SAVED' => 'Se ha guardado la configuración del proveedor SMS',
+);    

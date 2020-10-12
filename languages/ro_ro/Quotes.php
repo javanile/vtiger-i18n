@@ -9,18 +9,18 @@
  ************************************************************************************/
 $languageStrings = array(
     'Quotes'                       => 'Oferta'                      , 
-	'SINGLE_Quotes'                => 'Oferta'                      , 
-	'LBL_EXPORT_TO_PDF'            => 'Exporta in PDF'              , 
-	'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
-	'LBL_ADD_RECORD'               => 'Add Quote'                   , 
-	'LBL_RECORDS_LIST'             => 'Lista oferte'                , 
-	'LBL_QUOTE_INFORMATION'        => 'Info oferta'                 , 
-	'Quote No'                     => 'ID Oferta'                   , 
-	'Quote Stage'                  => 'Stadiu oferta'               , 
-	'Valid Till'                   => 'Valid pana la'               , 
-	'Inventory Manager'            => 'Manager inventar'            , 
-	'Accepted'                     => 'Acceptat'                    , 
-	'Rejected'                     => 'Respins'                     , 
+    'SINGLE_Quotes'                => 'Oferta'                      , 
+    'LBL_EXPORT_TO_PDF'            => 'Exporta in PDF'              , 
+    'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
+    'LBL_ADD_RECORD'               => 'Add Quote'                   , 
+    'LBL_RECORDS_LIST'             => 'Lista oferte'                , 
+    'LBL_QUOTE_INFORMATION'        => 'Info oferta'                 , 
+    'Quote No'                     => 'ID Oferta'                   , 
+    'Quote Stage'                  => 'Stadiu oferta'               , 
+    'Valid Till'                   => 'Valid pana la'               , 
+    'Inventory Manager'            => 'Manager inventar'            , 
+    'Accepted'                     => 'Acceptat'                    , 
+    'Rejected'                     => 'Respins'                     , 
     'Related To'                   => 'Legate de'                   ,
 
   'LBL_THIS' => 'Acest lucru',

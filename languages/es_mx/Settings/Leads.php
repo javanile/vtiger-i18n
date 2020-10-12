@@ -8,10 +8,10 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convertir asignación de Prospectos'      , 
-	'LBL_ORGANIZATIONS'            => 'Cuenta'               , 
-	'LBL_CONTACTS'                 => 'Contactos'                    , 
-	'LBL_OPPURTUNITIES'            => 'Oportunidades'               , 
+    'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convertir asignación de Prospectos'      , 
+    'LBL_ORGANIZATIONS'            => 'Cuenta'               , 
+    'LBL_CONTACTS'                 => 'Contactos'                    , 
+    'LBL_OPPURTUNITIES'            => 'Oportunidades'               , 
 );
 $jsLanguageStrings = array(
 );

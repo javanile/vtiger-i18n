@@ -8,18 +8,18 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal'               => 'Customer Portal'             , // TODO: Review
-	'LBL_PORTAL_DESCRIPTION'       => 'Setup Privileges of Portal User', // TODO: Review
-	'LBL_PRIVILEGES'               => 'Privileges'                  , // TODO: Review
-	'LBL_DEFAULT_ASSIGNEE'         => 'Default Assignee'            , // TODO: Review
-	'LBL_PORTAL_URL'               => 'Portal Url'                  , // TODO: Review
-	'LBL_MODULE_NAME'              => 'Module Name'                 , // TODO: Review
-	'LBL_ENABLE_MODULE'            => 'Enable Module'               , // TODO: Review
-	'LBL_VIEW_ALL_RECORDS'         => 'See Records across Organization', // TODO: Review
-	'LBL_PREVILEGES_MESSAGE'       => 'This User\'s privileges will be applied to the Portal User.', // TODO: Review
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cazuri / Biletele vor fi cesionat cesionarului selectat de implicit Group / utilizator din Portal pentru clienți.', // TODO: Review
-	'LBL_PORTAL_URL_MESSAGE'       => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more. Contacts will be sent the login details when Portal access is enabled from Contact details page.', // TODO: Review
-	'LBL_DRAG_AND_DROP_MESSAGE'    => 'Drag and Drop modules to reorder in the Customer Portal', // TODO=> Review
+    'CustomerPortal'               => 'Customer Portal'             , // TODO: Review
+    'LBL_PORTAL_DESCRIPTION'       => 'Setup Privileges of Portal User', // TODO: Review
+    'LBL_PRIVILEGES'               => 'Privileges'                  , // TODO: Review
+    'LBL_DEFAULT_ASSIGNEE'         => 'Default Assignee'            , // TODO: Review
+    'LBL_PORTAL_URL'               => 'Portal Url'                  , // TODO: Review
+    'LBL_MODULE_NAME'              => 'Module Name'                 , // TODO: Review
+    'LBL_ENABLE_MODULE'            => 'Enable Module'               , // TODO: Review
+    'LBL_VIEW_ALL_RECORDS'         => 'See Records across Organization', // TODO: Review
+    'LBL_PREVILEGES_MESSAGE'       => 'This User\'s privileges will be applied to the Portal User.', // TODO: Review
+    'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cazuri / Biletele vor fi cesionat cesionarului selectat de implicit Group / utilizator din Portal pentru clienți.', // TODO: Review
+    'LBL_PORTAL_URL_MESSAGE'       => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more. Contacts will be sent the login details when Portal access is enabled from Contact details page.', // TODO: Review
+    'LBL_DRAG_AND_DROP_MESSAGE'    => 'Drag and Drop modules to reorder in the Customer Portal', // TODO=> Review
     "LBL_CONTACTS_ENABLE_MESSAGE"=>"Contacte vor fi trimise la datele de conectare atunci când accesul Portalul este activat din pagina de detalii de contact.",
     "LBL_SUPPORT_NOTIFY_MESSAGE"=>"Suport de alertă reînnoire a contractului este notificat pe portalul de client in functie de numarul de zile introduse.",
     "LBL_ADD_DOCUMENT"=>"Adauga Document",
@@ -67,7 +67,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED'         => 'Setările Portal pentru clienți salvate.', // TODO=> Review
+    'JS_PORTAL_INFO_SAVED'         => 'Setările Portal pentru clienți salvate.', // TODO=> Review
     "LBL_ADD_DOCUMENT"=>"Adauga Document",
     "LBL_OPEN_TICKETS"=>"Bilete deschise",
     "LBL_CREATE_TICKET"=>"Creați bilete",

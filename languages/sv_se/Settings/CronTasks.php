@@ -8,22 +8,22 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CronTasks' => 'Schemaläggare',
+    'CronTasks' => 'Schemaläggare',
 
-	//Basic Field Names
-	'Id' => 'Id',
-	'Cron Job' => 'Cron Jobb',
-	'Frequency' => 'Frekvens',
-	'Status' => 'Status',
-	'Sist Start' => 'Senaste genomsökningen startade',
-	'Sist End' => 'Senaste genomsökningen slutade',
-	'Sequence' => 'Sekvens',
+    //Basic Field Names
+    'Id' => 'Id',
+    'Cron Job' => 'Cron Jobb',
+    'Frequency' => 'Frekvens',
+    'Status' => 'Status',
+    'Sist Start' => 'Senaste genomsökningen startade',
+    'Sist End' => 'Senaste genomsökningen slutade',
+    'Sequence' => 'Sekvens',
 
-	//Actions
-	'LBL_COMPLETED' => 'Klar',
-	'LBL_RUNNING' => 'Kör',
-	'LBL_ACTIVE' => 'Aktiv',
-	'LBL_INACTIVE' => 'Inaktiv',
+    //Actions
+    'LBL_COMPLETED' => 'Klar',
+    'LBL_RUNNING' => 'Kör',
+    'LBL_ACTIVE' => 'Aktiv',
+    'LBL_INACTIVE' => 'Inaktiv',
 
   'Last Start' => 'Sista sökningen igång',
   'Last End' => 'Senaste genomsökningen avslutats',

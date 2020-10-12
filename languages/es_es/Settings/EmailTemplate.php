@@ -16,8 +16,8 @@
  *  Author       : JPL TSolucio, S. L. Joe Bordes
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_TEMPLATE_NAME'            => 'Nombre Plantilla',
-	'LBL_DESCRIPTION'              => 'Descripción ',
-	'EmailTemplate' => 'Plantilla Email',
-	'LBL_SUBJECT' => 'Asutno',
+    'LBL_TEMPLATE_NAME'            => 'Nombre Plantilla',
+    'LBL_DESCRIPTION'              => 'Descripción ',
+    'EmailTemplate' => 'Plantilla Email',
+    'LBL_SUBJECT' => 'Asutno',
 );

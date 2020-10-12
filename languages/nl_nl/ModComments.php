@@ -8,14 +8,14 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ModComments'           => 'Opmerking'                   , 
-	'LBL_RECORDS_LIST'             => 'Opmerkingenlijst'            , 
-	'LBL_MODCOMMENTS_INFORMATION'  => 'Opmerkingen'                 , 
-	'LBL_OTHER_INFORMATION'        => 'Andere Informatie'           , 
-	'LBL_ADDING_COMMENT'           => 'Voeg Opmerking Toe'          , 
-	'LBL_WRITE_YOUR_COMMENT_HERE'  => 'Voer Opmerking hier in'      , 
-	'Comment'                      => 'Opmerking'                   , 
-	'Creator'                      => 'Gemaakt Door'                , 
-	'Related To Comments'          => 'Gerelateerd Aan'             , 
-	'LBL_COMMENTED_AT'             => 'Commentaar op'               , 
+    'SINGLE_ModComments'           => 'Opmerking'                   , 
+    'LBL_RECORDS_LIST'             => 'Opmerkingenlijst'            , 
+    'LBL_MODCOMMENTS_INFORMATION'  => 'Opmerkingen'                 , 
+    'LBL_OTHER_INFORMATION'        => 'Andere Informatie'           , 
+    'LBL_ADDING_COMMENT'           => 'Voeg Opmerking Toe'          , 
+    'LBL_WRITE_YOUR_COMMENT_HERE'  => 'Voer Opmerking hier in'      , 
+    'Comment'                      => 'Opmerking'                   , 
+    'Creator'                      => 'Gemaakt Door'                , 
+    'Related To Comments'          => 'Gerelateerd Aan'             , 
+    'LBL_COMMENTED_AT'             => 'Commentaar op'               , 
 );

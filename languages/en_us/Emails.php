@@ -28,8 +28,8 @@ $languageStrings = [
     'LBL_EXCEEDED'                      => 'Exceeded',
     'LBL_EMAILTEMPLATE_WARNING'         => 'Are your merge-tags correct',
     'LBL_EMAILTEMPLATE_WARNING_CONTENT' => 'Please make sure that the template you selected has merge-tags relevant to the recipient record. 
-											If you are sending an email to Lead, but the merge-tags belong to Contact module (ex: $contacts-lastname$), 
-											then the values will not be merged.',
+                                            If you are sending an email to Lead, but the merge-tags belong to Contact module (ex: $contacts-lastname$), 
+                                            then the values will not be merged.',
 
     //Button Names translation
     'LBL_FORWARD'     => 'Forward',

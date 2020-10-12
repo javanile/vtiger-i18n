@@ -8,23 +8,23 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ProjectTask' => 'مهام المشروع',
-	'LBL_ADD_RECORD' => 'اضافة مهام للمشروع',
-	'LBL_RECORDS_LIST' => 'قائمة مهام المشروع',
+    // Basic Strings
+    'SINGLE_ProjectTask' => 'مهام المشروع',
+    'LBL_ADD_RECORD' => 'اضافة مهام للمشروع',
+    'LBL_RECORDS_LIST' => 'قائمة مهام المشروع',
 
-	// Blocks
-	'LBL_PROJECT_TASK_INFORMATION' => 'تفاصيل مهام المشروع',
-	'LBL_PROJECTS_LIST' => 'قائمة المشاريع',
-	'LBL_TASKS_LIST' => 'قائمة المهام',
+    // Blocks
+    'LBL_PROJECT_TASK_INFORMATION' => 'تفاصيل مهام المشروع',
+    'LBL_PROJECTS_LIST' => 'قائمة المشاريع',
+    'LBL_TASKS_LIST' => 'قائمة المهام',
     'LBL_MILESTONES_LIST'=> 'قائمة المعالم'   ,
-	
-	//Field Labels
-	'Project Task Name' => 'المشروع اسم المهمة',
+    
+    //Field Labels
+    'Project Task Name' => 'المشروع اسم المهمة',
     'Project Task No' => 'عدد المهام المشروع',
     'Project Task Number' => 'عدد المهام المشروع',
-	'Status' => 'حالة',
-	'Priority' => 'أفضلية',
+    'Status' => 'حالة',
+    'Priority' => 'أفضلية',
     'Progress' => 'تقدم',
     'Type'=>'نوع',
     'Worked Hours'=>'ساعات العمل',
@@ -40,11 +40,11 @@ $languageStrings = array(
     'Created Time' => 'خلقت وقت',
     'Modified Time' => 'التوقيت تعديل',
     'description' => 'وصف',
-	'Assigned To' => 'تعيين ل',
-	'Open' => 'فتح',
-	'In Progress' => 'في التقدم',
-	'Completed' => 'الانتهاء',
-	'Deferred' => 'تأجيل',
-	'Canceled ' => 'ألغيت',
+    'Assigned To' => 'تعيين ل',
+    'Open' => 'فتح',
+    'In Progress' => 'في التقدم',
+    'Completed' => 'الانتهاء',
+    'Deferred' => 'تأجيل',
+    'Canceled ' => 'ألغيت',
         'LBL_NO_DATE_VALUE_MSG' => 'أو مهام المشروع لا يكون البدء و / أو تاريخ الانتهاء',
 );

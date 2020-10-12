@@ -8,51 +8,51 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	//DetailView Actions
+    //DetailView Actions
     'SalesOrder'     => 'Kundorder',
-	'SINGLE_SalesOrder' => 'Kundorder',
-	'LBL_EXPORT_TO_PDF' => 'Exportera till PDF',
+    'SINGLE_SalesOrder' => 'Kundorder',
+    'LBL_EXPORT_TO_PDF' => 'Exportera till PDF',
     'LBL_SEND_MAIL_PDF' => 'Skicka E-post med PDF',
 
-	//Basic strings
-	'LBL_ADD_RECORD' => 'Lägg till Försäljningsorder',
-	'LBL_RECORDS_LIST' => 'Försäljningsorderslista',
+    //Basic strings
+    'LBL_ADD_RECORD' => 'Lägg till Försäljningsorder',
+    'LBL_RECORDS_LIST' => 'Försäljningsorderslista',
 
-	// Blocks
-	'LBL_SO_INFORMATION' => 'Uppgifter över Försäljningsorder',
+    // Blocks
+    'LBL_SO_INFORMATION' => 'Uppgifter över Försäljningsorder',
 
-	//Field labels
-	'SalesOrder No'=>'Försäljningsordersnummer',
-	'Quote Name'=>'Offertnamn',
-	'Customer No' => 'Kundnummer',
-	'Requisition No'=>'Rekvisition nr',
-	'Tracking Number'=>'Spårningsnummer',
-	'Sales Commission' => 'Försäljningskommissionen',
-	'Purchase Order'=>'Inköpsorder',
-	'Vendor Terms'=>'Leverantör Villkor',
-	'Pending'=>'Pågående',
-	'Enable Recurring' => 'Aktivera Återkommande',
-	'Frequency' => 'Frekvens',
-	'Start Period' => 'Startperiod',
-	'End Period' => 'Slutperiod',
-	'Payment Duration' => 'Betalningens Varaktighet',
-	'Invoice Status' => 'Fakturastatus',
+    //Field labels
+    'SalesOrder No'=>'Försäljningsordersnummer',
+    'Quote Name'=>'Offertnamn',
+    'Customer No' => 'Kundnummer',
+    'Requisition No'=>'Rekvisition nr',
+    'Tracking Number'=>'Spårningsnummer',
+    'Sales Commission' => 'Försäljningskommissionen',
+    'Purchase Order'=>'Inköpsorder',
+    'Vendor Terms'=>'Leverantör Villkor',
+    'Pending'=>'Pågående',
+    'Enable Recurring' => 'Aktivera Återkommande',
+    'Frequency' => 'Frekvens',
+    'Start Period' => 'Startperiod',
+    'End Period' => 'Slutperiod',
+    'Payment Duration' => 'Betalningens Varaktighet',
+    'Invoice Status' => 'Fakturastatus',
 
-	//Added for existing Picklist Entries
+    //Added for existing Picklist Entries
 
-	'Sub Total'=>'Sub Saldo',
-	'AutoCreated'=>'Automatskapad',
-	'Sent'=>'Skickat',
-	'Credit Invoice'=>'Kreditfaktura',
-	'Paid'=>'Betald',
-	
-	//Translation for product not found
-	'LBL_THIS' => 'Den här',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'tas bort från systemet. Vänligen ta bort eller ersätta detta objekt',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Denna artikel tas bort från systemet, vänligen ta bort artikel',
+    'Sub Total'=>'Sub Saldo',
+    'AutoCreated'=>'Automatskapad',
+    'Sent'=>'Skickat',
+    'Credit Invoice'=>'Kreditfaktura',
+    'Paid'=>'Betald',
+    
+    //Translation for product not found
+    'LBL_THIS' => 'Den här',
+    'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'tas bort från systemet. Vänligen ta bort eller ersätta detta objekt',
+    'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Denna artikel tas bort från systemet, vänligen ta bort artikel',
 
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Var god ta bort artikelraden som raderades',
+    'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Var god ta bort artikelraden som raderades',
 );

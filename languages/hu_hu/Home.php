@@ -8,27 +8,27 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'ALVT'                         => 'Legfontosabb Cégek'         , 
-	'PLVT'                         => 'Legfontosabb Lehetőségek'  , 
-	'QLTQ'                         => 'Legfontosabb Ajánlatok'     , 
-	'CVLVT'                        => 'Kulcs Mérőszámok'         , 
-	'HLT'                          => 'Legfontosabb Kérések'      , 
-	'GRT'                          => 'Csoport beosztásom'         , 
-	'OLTSO'                        => 'Legfontosabb Megrendelések' , 
-	'ILTI'                         => 'Legfontosabb Díjbekérők'  , 
-	'HDB'                          => 'Műszerfal Kezdőlap'        , 
-	'OLTPO'                        => 'Legfontosabb Beszerzések'   , 
-	'LTFAQ'                        => 'TudásTár bejegyzéseim'    , 
-	'UA'                           => 'Rám váró Tevékenységek' , 
-	'PA'                           => 'Befejezetlen Tevékenységek', 
+    'ALVT'                         => 'Legfontosabb Cégek'         , 
+    'PLVT'                         => 'Legfontosabb Lehetőségek'  , 
+    'QLTQ'                         => 'Legfontosabb Ajánlatok'     , 
+    'CVLVT'                        => 'Kulcs Mérőszámok'         , 
+    'HLT'                          => 'Legfontosabb Kérések'      , 
+    'GRT'                          => 'Csoport beosztásom'         , 
+    'OLTSO'                        => 'Legfontosabb Megrendelések' , 
+    'ILTI'                         => 'Legfontosabb Díjbekérők'  , 
+    'HDB'                          => 'Műszerfal Kezdőlap'        , 
+    'OLTPO'                        => 'Legfontosabb Beszerzések'   , 
+    'LTFAQ'                        => 'TudásTár bejegyzéseim'    , 
+    'UA'                           => 'Rám váró Tevékenységek' , 
+    'PA'                           => 'Befejezetlen Tevékenységek', 
         'Home'                         => 'Műszerfal'                   ,
 
   'LBL_SAVE_ORDER' => 'A Mentés Érdekében',
   'LBL_ADD_NEW_DASHBOARD' => 'Új műszerfal',
-	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => 'Maximum 30 karakter engedélyezett a műszerfal nevét.',
+    'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => 'Maximum 30 karakter engedélyezett a műszerfal nevét.',
 );
 
 $jsLanguageStrings = array(
-	'JS_TAB_NAME_SHOULD_NOT_BE_EMPTY' => 'Portál neve nem nem lehet üres',
-	'JS_NO_DATA_AVAILABLE' => 'Nincs elérhető adat',
+    'JS_TAB_NAME_SHOULD_NOT_BE_EMPTY' => 'Portál neve nem nem lehet üres',
+    'JS_NO_DATA_AVAILABLE' => 'Nincs elérhető adat',
 );

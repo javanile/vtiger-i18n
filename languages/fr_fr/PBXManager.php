@@ -8,12 +8,12 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Asterisk'                     => 'Asterisk'                    , 
-	'PBXManager'                   => 'Administration du PBX'       , 
-	'SINGLE_PBXManager'            => 'Administration du PBX'       , 
-	'LBL_CALL_INFORMATION'         => 'Call Details'                , 
-	'Call From'                    => 'Appel entrant de'            , 
-	'Call To'                      => 'Appel sortant vers'          , 
-	'Time Of Call'                 => 'Date et heure de l\'appel'   , 
-	'PBXManager ID'                => 'PBX ID'                      , 
+    'Asterisk'                     => 'Asterisk'                    , 
+    'PBXManager'                   => 'Administration du PBX'       , 
+    'SINGLE_PBXManager'            => 'Administration du PBX'       , 
+    'LBL_CALL_INFORMATION'         => 'Call Details'                , 
+    'Call From'                    => 'Appel entrant de'            , 
+    'Call To'                      => 'Appel sortant vers'          , 
+    'Time Of Call'                 => 'Date et heure de l\'appel'   , 
+    'PBXManager ID'                => 'PBX ID'                      , 
 );

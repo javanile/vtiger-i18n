@@ -8,20 +8,20 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectMilestone'      => 'Project Mijlpaal'            , 
-	'LBL_ADD_RECORD'               => 'Voeg Project Mijlpaal toe'   , 
-	'LBL_RECORDS_LIST'             => 'Project Mijlpalenlijst'      , 
+    'SINGLE_ProjectMilestone'      => 'Project Mijlpaal'            , 
+    'LBL_ADD_RECORD'               => 'Voeg Project Mijlpaal toe'   , 
+    'LBL_RECORDS_LIST'             => 'Project Mijlpalenlijst'      , 
     'LBL_PROJECTS_LIST'            => 'Projecten Lijst'             ,
-	'LBL_TASKS_LIST'               => 'Taken Lijst'                 , 
+    'LBL_TASKS_LIST'               => 'Taken Lijst'                 , 
     'LBL_MILESTONES_LIST'          => 'Mijlpalen Lijst'             ,
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Project Mijlpaal Informatie' , 
-	'Project Milestone Name'       => 'Mijlpaal Naam'               , 
-	'Milestone Date'               => 'Mijlpaal Datum'              , 
-	'Project Milestone No'         => 'Mijlpaal Nr'                 , 
+    'LBL_PROJECT_MILESTONE_INFORMATION' => 'Project Mijlpaal Informatie' , 
+    'Project Milestone Name'       => 'Mijlpaal Naam'               , 
+    'Milestone Date'               => 'Mijlpaal Datum'              , 
+    'Project Milestone No'         => 'Mijlpaal Nr'                 , 
         'Type'                         => 'Type'                        , 
     'Related to'                   => 'Gerelateerd aan'             ,
-	//picklist values
-	'administrative' => 'Administratief',
+    //picklist values
+    'administrative' => 'Administratief',
     'operative' => 'Arbeider',
     'other' => 'Ander',
 );

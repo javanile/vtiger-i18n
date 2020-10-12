@@ -8,63 +8,63 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
+    // Basic Strings
     'Project' => 'Projekt',
-	'SINGLE_Project' => 'Projekt',
-	'LBL_ADD_RECORD' => 'Lägg till projekt',
-	'LBL_RECORDS_LIST' => 'Projektlista',
+    'SINGLE_Project' => 'Projekt',
+    'LBL_ADD_RECORD' => 'Lägg till projekt',
+    'LBL_RECORDS_LIST' => 'Projektlista',
     'LBL_MILESTONES_LIST'=>'Milstolpar Lista',
 
-	// Blocks
-	'LBL_PROJECT_INFORMATION' => 'Projektuppgifter',
+    // Blocks
+    'LBL_PROJECT_INFORMATION' => 'Projektuppgifter',
 
-	//Field Labels
-	'Project Name' => 'Projektnamn',
-	'Start Date' => 'Startdatum',
-	'Target End Date' => 'Målsättningför slutdatum',
-	'Actual End Date' => 'Faktiskt slutdatum',
-	'Project No' => 'Projektnummer',
-	'Target Budget' => 'Målbudget',
-	'Project Url' => 'Projekt URL',
-	'Progress' => 'Framsteg',
+    //Field Labels
+    'Project Name' => 'Projektnamn',
+    'Start Date' => 'Startdatum',
+    'Target End Date' => 'Målsättningför slutdatum',
+    'Actual End Date' => 'Faktiskt slutdatum',
+    'Project No' => 'Projektnummer',
+    'Target Budget' => 'Målbudget',
+    'Project Url' => 'Projekt URL',
+    'Progress' => 'Framsteg',
         'Type' => 'Typ',
     'Related to' => 'Relaterat till',
 
-	//Summary Information
-	'LBL_TASKS_OPEN' => 'Uppgifter Öppna',
-	'LBL_TASKS_DUE' => 'Uppgifter Förfaller',
-	'LBL_TASKS_COMPLETED' => 'Uppgifter Genomförd',
-	'LBL_PEOPLE' => 'Människor',
+    //Summary Information
+    'LBL_TASKS_OPEN' => 'Uppgifter Öppna',
+    'LBL_TASKS_DUE' => 'Uppgifter Förfaller',
+    'LBL_TASKS_COMPLETED' => 'Uppgifter Genomförd',
+    'LBL_PEOPLE' => 'Människor',
     'LBL_TASKS_HIGH' => 'Hög prioritet',
     'LBL_TASKS_NORMAL' => 'Normal prioritet',
     'LBL_TASKS_LOW' => 'Låg prioritet',
     'LBL_TASKS_OTHER' => 'Andra prioriteringar',
     'LBL_SELECT_PROGRESS' => 'framsteg - alla',
-	'LBL_SELECT_STATUS' => 'status - alla',
+    'LBL_SELECT_STATUS' => 'status - alla',
 
-	//Related List
-	'LBL_CHARTS' => 'Topplista',
-	'LBL_TASKS_LIST' => 'Uppgiftslista',
-	'LBL_MILESTONES' => 'Milstolpar',
-	'LBL_TASKS' => 'Uppgifter',
-	'LBL_STATUS_IS' => 'Status är',
-	'LBL_STATUS' => 'Status',
-	'LBL_TICKET_PRIORITY' => 'Prioritet',
-	
-	//Summary View Widgets
-	'LBL_DOWNLOAD_FILE' => 'Ladda ner fil',
-	'LBL_MILESTONES_LIST'	=>	"Milestones Lista",
-	
-	//picklist values
-	'prospecting' => 'Prospektering',
+    //Related List
+    'LBL_CHARTS' => 'Topplista',
+    'LBL_TASKS_LIST' => 'Uppgiftslista',
+    'LBL_MILESTONES' => 'Milstolpar',
+    'LBL_TASKS' => 'Uppgifter',
+    'LBL_STATUS_IS' => 'Status är',
+    'LBL_STATUS' => 'Status',
+    'LBL_TICKET_PRIORITY' => 'Prioritet',
+    
+    //Summary View Widgets
+    'LBL_DOWNLOAD_FILE' => 'Ladda ner fil',
+    'LBL_MILESTONES_LIST'    =>    "Milestones Lista",
+    
+    //picklist values
+    'prospecting' => 'Prospektering',
     'in progress' => 'In Progress',
     'initiated' => 'Initierat',
-	'waiting for feedback' => 'Väntar på återkoppling',
+    'waiting for feedback' => 'Väntar på återkoppling',
     'on hold' => 'On Hold',
     'archived' => 'Arkiverad',
     'completed' => 'Avslutat',
     'delivered' => 'Levereras',
-	'administrative' => 'Administrativ',
+    'administrative' => 'Administrativ',
     'operative' => 'Operative',
     'other' => 'Annat',
     'low' => 'Låg',

@@ -21,7 +21,7 @@ $languageStrings = Array(
 );
 
 $jsLanguageStrings = array(
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss Sikeresen mentve',
+    'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss Sikeresen mentve',
     'JS_INVALID_RSS_URL' => 'Invalid Rss Url',
     'JS_RSS_MADE_AS_DEFAULT' => 'Rss Made alapértelmezett',
     

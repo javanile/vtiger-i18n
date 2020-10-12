@@ -8,8 +8,8 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'EmailTemplate'                => 'Plantilla de correo'              , 
-	'LBL_TEMPLATE_NAME'            => 'Nombre de la Plantilla'         , 
-	'LBL_DESCRIPTION'              => 'Descripción'                , 
-	'LBL_SUBJECT'                  => 'Asunto'                     , 
+    'EmailTemplate'                => 'Plantilla de correo'              , 
+    'LBL_TEMPLATE_NAME'            => 'Nombre de la Plantilla'         , 
+    'LBL_DESCRIPTION'              => 'Descripción'                , 
+    'LBL_SUBJECT'                  => 'Asunto'                     , 
 );

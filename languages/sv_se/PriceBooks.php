@@ -8,20 +8,20 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'PriceBooks' => 'Prisguider',
-	'SINGLE_PriceBooks' => 'Prisguide',
-	'LBL_ADD_RECORD' => 'Lägg till Prisguide',
-	'LBL_RECORDS_LIST' => 'Prisguideslista',
+    // Basic Strings
+    'PriceBooks' => 'Prisguider',
+    'SINGLE_PriceBooks' => 'Prisguide',
+    'LBL_ADD_RECORD' => 'Lägg till Prisguide',
+    'LBL_RECORDS_LIST' => 'Prisguideslista',
 
-	// Blocks
-	'LBL_PRICEBOOK_INFORMATION' => 'Prisguidesuppgifter',
-	'LBL_EDIT_LIST_PRICE' => 'Redigera prislista',
+    // Blocks
+    'LBL_PRICEBOOK_INFORMATION' => 'Prisguidesuppgifter',
+    'LBL_EDIT_LIST_PRICE' => 'Redigera prislista',
 
-	//Field Labels
-	'Price Book Name' => 'Prisguidesnamn',
-	'PriceBook No' => 'Prisguidesnummer',
-	
-	'LBL_UNIT_PRICE' => 'JÄMFÖRPRIS',
-	'LBL_ADD_TO' => 'Lägg till',
+    //Field Labels
+    'Price Book Name' => 'Prisguidesnamn',
+    'PriceBook No' => 'Prisguidesnummer',
+    
+    'LBL_UNIT_PRICE' => 'JÄMFÖRPRIS',
+    'LBL_ADD_TO' => 'Lägg till',
 );

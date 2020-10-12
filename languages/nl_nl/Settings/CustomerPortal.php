@@ -8,18 +8,18 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal'               => 'Customer Portal'             , // TODO: Review
-	'LBL_PORTAL_DESCRIPTION'       => 'Setup Privileges of Portal User', // TODO: Review
-	'LBL_PRIVILEGES'               => 'Privileges'                  , // TODO: Review
-	'LBL_DEFAULT_ASSIGNEE'         => 'Default Assignee'            , // TODO: Review
-	'LBL_PORTAL_URL'               => 'Portal Url'                  , // TODO: Review
-	'LBL_MODULE_NAME'              => 'Module Name'                 , // TODO: Review
-	'LBL_ENABLE_MODULE'            => 'Enable Module'               , // TODO: Review
-	'LBL_VIEW_ALL_RECORDS'         => 'See Records across Organization', // TODO: Review
-	'LBL_PREVILEGES_MESSAGE'       => 'This User\'s privileges will be applied to the Portal User.', // TODO: Review
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cases / Tickets zullen aan de geselecteerde Gevolmachtigde worden toegekend door de standaard Groep / gebruiker van de Customer Portal.', // TODO: Review
-	'LBL_PORTAL_URL_MESSAGE'       => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more. Contacts will be sent the login details when Portal access is enabled from Contact details page.', // TODO: Review
-	'LBL_DRAG_AND_DROP_MESSAGE'    => 'Drag and Drop modules to reorder in the Customer Portal', // TODO: Review
+    'CustomerPortal'               => 'Customer Portal'             , // TODO: Review
+    'LBL_PORTAL_DESCRIPTION'       => 'Setup Privileges of Portal User', // TODO: Review
+    'LBL_PRIVILEGES'               => 'Privileges'                  , // TODO: Review
+    'LBL_DEFAULT_ASSIGNEE'         => 'Default Assignee'            , // TODO: Review
+    'LBL_PORTAL_URL'               => 'Portal Url'                  , // TODO: Review
+    'LBL_MODULE_NAME'              => 'Module Name'                 , // TODO: Review
+    'LBL_ENABLE_MODULE'            => 'Enable Module'               , // TODO: Review
+    'LBL_VIEW_ALL_RECORDS'         => 'See Records across Organization', // TODO: Review
+    'LBL_PREVILEGES_MESSAGE'       => 'This User\'s privileges will be applied to the Portal User.', // TODO: Review
+    'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cases / Tickets zullen aan de geselecteerde Gevolmachtigde worden toegekend door de standaard Groep / gebruiker van de Customer Portal.', // TODO: Review
+    'LBL_PORTAL_URL_MESSAGE'       => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more. Contacts will be sent the login details when Portal access is enabled from Contact details page.', // TODO: Review
+    'LBL_DRAG_AND_DROP_MESSAGE'    => 'Drag and Drop modules to reorder in the Customer Portal', // TODO: Review
     "LBL_CONTACTS_ENABLE_MESSAGE"=>"Contacten zal de login-gegevens worden verzonden wanneer Portal toegang is ingeschakeld uit Contactgegevens pagina.",
     "LBL_SUPPORT_NOTIFY_MESSAGE"=>"Ondersteuning contractverlenging waarschuwing wordt gemeld op de customer portal op basis van het aantal ingevoerde dagen.",
     "LBL_ADD_DOCUMENT"=>"Document toevoegen",
@@ -66,7 +66,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED'         => 'Customer Portal instellingen opgeslagen.', // TODO: Review
+    'JS_PORTAL_INFO_SAVED'         => 'Customer Portal instellingen opgeslagen.', // TODO: Review
     "LBL_ADD_DOCUMENT"=>"Document toevoegen",
     "LBL_OPEN_TICKETS"=>"Open Kaarten",
     "LBL_CREATE_TICKET"=>"Ticket aanmaken",

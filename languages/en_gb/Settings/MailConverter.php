@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Mail Converter",
+    'MailConverter'   =>   "Mail Converter",
     'MailConverter_Description'   =>   "Convert emails to respective records",
     'MAILBOX'   =>   "MailBox",
     'RULE'   =>   "Rule",
@@ -168,7 +168,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "MailBox deleted Successfully",
+    'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "MailBox deleted Successfully",
     'JS_MAILBOX_LOADED_SUCCESSFULLY'   =>   "MailBox loaded Successfully",
     'JS_SELECT_ATLEAST_ONE' => 'Please map atleast one field',
     'JS_SERVER_NAME' => 'Enter server name',

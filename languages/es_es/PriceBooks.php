@@ -16,15 +16,15 @@
  *  Author       : JPL TSolucio, S. L. Joe Bordes
  ************************************************************************************/
 $languageStrings = array(
-	'PriceBooks'                   => 'Tarifas',
-	'SINGLE_PriceBooks'            => 'Tarifa',
-	'LBL_ADD_RECORD'               => 'Añadir Tarifa',
-	'LBL_RECORDS_LIST'             => 'Lista de Tarifas',
-	'LBL_PRICEBOOK_INFORMATION'    => 'Detalle de Tarifa',
-	'LBL_EDIT_LIST_PRICE'          => 'Editar Tarifa',
-	'Price Book Name'              => 'Nombre Tarifa',
-	'PriceBook No'                 => 'Número Tarifa',
-	
-	'LBL_UNIT_PRICE' => 'Precio unitario',
-	'LBL_ADD_TO' => 'Añadir a',
+    'PriceBooks'                   => 'Tarifas',
+    'SINGLE_PriceBooks'            => 'Tarifa',
+    'LBL_ADD_RECORD'               => 'Añadir Tarifa',
+    'LBL_RECORDS_LIST'             => 'Lista de Tarifas',
+    'LBL_PRICEBOOK_INFORMATION'    => 'Detalle de Tarifa',
+    'LBL_EDIT_LIST_PRICE'          => 'Editar Tarifa',
+    'Price Book Name'              => 'Nombre Tarifa',
+    'PriceBook No'                 => 'Número Tarifa',
+    
+    'LBL_UNIT_PRICE' => 'Precio unitario',
+    'LBL_ADD_TO' => 'Añadir a',
 );

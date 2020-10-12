@@ -8,17 +8,17 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	
-	'Asterisk' => 'Asterisk',
-	'PBXManager' => 'PBX Manager',
-	'SINGLE_PBXManager' => 'PBX Manager',
-	
-	//Blocks
-	'LBL_CALL_INFORMATION' => 'Samtalsuppgifter',
-	
-	//Field Labels
-	'Call From'=>'Samtal från',
-	'Call To'=>'Samtal Till',
-	'Time Of Call'=>'Samtalstid',
-	'PBXManager ID'=>'PBX Manager ID',
+    
+    'Asterisk' => 'Asterisk',
+    'PBXManager' => 'PBX Manager',
+    'SINGLE_PBXManager' => 'PBX Manager',
+    
+    //Blocks
+    'LBL_CALL_INFORMATION' => 'Samtalsuppgifter',
+    
+    //Field Labels
+    'Call From'=>'Samtal från',
+    'Call To'=>'Samtal Till',
+    'Time Of Call'=>'Samtalstid',
+    'PBXManager ID'=>'PBX Manager ID',
 );

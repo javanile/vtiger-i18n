@@ -9,5 +9,5 @@
  *************************************************************************************/
 
 $languageStrings = array(
-	'SINGLE_ModTracker' => 'Registro Módulo Rastreamento',
+    'SINGLE_ModTracker' => 'Registro Módulo Rastreamento',
 );

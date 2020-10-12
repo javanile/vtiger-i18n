@@ -8,23 +8,23 @@
  * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - www.ttcasolucoes.com.br
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ModComments' => 'Comentário',
-	'LBL_RECORDS_LIST' => 'Lista Comentários',
+    // Basic Strings
+    'SINGLE_ModComments' => 'Comentário',
+    'LBL_RECORDS_LIST' => 'Lista Comentários',
 
-	// Blocks
-	'LBL_MODCOMMENTS_INFORMATION' => 'Comentários',
-	'LBL_OTHER_INFORMATION' => 'Outras Informações',
+    // Blocks
+    'LBL_MODCOMMENTS_INFORMATION' => 'Comentários',
+    'LBL_OTHER_INFORMATION' => 'Outras Informações',
 
-	'LBL_ADDING_COMMENT' => 'Adicionando Comentário',
-	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Digite comentário aqui',
-	
-	//Field Labels
-	'Comment' => 'Comentário',
-	'Creator' => 'Criador',
-	'Related To Comments' => 'Relaciona a',
-	
-	//other
-	'LBL_COMMENTED_AT' => 'Comentado em'
-	
+    'LBL_ADDING_COMMENT' => 'Adicionando Comentário',
+    'LBL_WRITE_YOUR_COMMENT_HERE' => 'Digite comentário aqui',
+    
+    //Field Labels
+    'Comment' => 'Comentário',
+    'Creator' => 'Criador',
+    'Related To Comments' => 'Relaciona a',
+    
+    //other
+    'LBL_COMMENTED_AT' => 'Comentado em'
+    
 );

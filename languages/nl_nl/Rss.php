@@ -21,7 +21,7 @@ $languageStrings = Array(
 );
 
 $jsLanguageStrings = array(
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss succesvol opgeslagen',
+    'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss succesvol opgeslagen',
     'JS_INVALID_RSS_URL' => 'Ongeldige Rss Url',
     'JS_RSS_MADE_AS_DEFAULT' => 'Rss Made als standaard',
     

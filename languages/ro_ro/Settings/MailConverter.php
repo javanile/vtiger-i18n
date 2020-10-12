@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Mail Converter",
+    'MailConverter'   =>   "Mail Converter",
     'MailConverter_Description'   =>   "Conversia e-mailuri cu înregistrările respective",
     'MAILBOX'   =>   "Cutie poștală",
     'RULE'   =>   "Articolul",
@@ -168,7 +168,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Căsuța poștală șters cu succes",
+    'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Căsuța poștală șters cu succes",
     'JS_MAILBOX_LOADED_SUCCESSFULLY'   =>   "Căsuța poștală încărcat cu succes",
     'JS_SELECT_ATLEAST_ONE' => 'Vă rugăm să hartă cel putin un domeniu',
     'JS_SERVER_NAME' => 'Introduceți numele de server',

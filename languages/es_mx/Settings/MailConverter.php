@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Convertir correos",
+    'MailConverter'   =>   "Convertir correos",
     'MailConverter_Description'   =>   "Convertir mensajes de correo electrónico a los registros respectivos",
     'MAILBOX'   =>   "Buzón",
     'RULE'   =>   "Regla",
@@ -168,7 +168,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Buzón eliminado con éxito",
+    'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Buzón eliminado con éxito",
     'JS_MAILBOX_LOADED_SUCCESSFULLY'   =>   "Buzón cargado con éxito",
     'JS_SELECT_ATLEAST_ONE' => 'Por favor asigne al menos un campo',
     'JS_SERVER_NAME' => 'Introduzca el nombre del servidor',
@@ -177,4 +177,4 @@ $jsLanguageStrings = array(
     'JS_TIMEZONE_INFO' => 'Por favor, seleccione la zona horaria donde se encuentra el servidor de correo. Si se selecciona la zona horaria equivocada algunos correos podrían no ser escaneados.',
     'JS_SCAN_FROM_INFO' => 'Este campo determina si todos los correos en su buzón deben ser escaneados o si los correos que han llegado a su buzón ayer o más tarde deben ser escaneados. Este campo sólo es aplicable para la configuración por primera vez o cuando se seleccione una nueva carpeta para escanear.',
     'JS_SELECT_ONE_FOLDER' => 'Debe seleccionar al menos una carpeta.',
-);	
+);    

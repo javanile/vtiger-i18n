@@ -8,23 +8,23 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal' => 'Kundportal',
-	'LBL_PORTAL_DESCRIPTION' => 'Konfigurera privilegier för Portalanvändare',
+    'CustomerPortal' => 'Kundportal',
+    'LBL_PORTAL_DESCRIPTION' => 'Konfigurera privilegier för Portalanvändare',
 
-	'LBL_PRIVILEGES' => 'Privilegier',
-	'LBL_DEFAULT_ASSIGNEE' => 'Förvald Förvärvare',
-	'LBL_PORTAL_URL' => 'Portal Url',
+    'LBL_PRIVILEGES' => 'Privilegier',
+    'LBL_DEFAULT_ASSIGNEE' => 'Förvald Förvärvare',
+    'LBL_PORTAL_URL' => 'Portal Url',
 
-	//Fields
-	'LBL_MODULE_NAME' => 'Modulname',
-	'LBL_ENABLE_MODULE' => 'Aktivera Modul',
-	'LBL_VIEW_ALL_RECORDS' => 'Se Poster i hela organisationen',
+    //Fields
+    'LBL_MODULE_NAME' => 'Modulname',
+    'LBL_ENABLE_MODULE' => 'Aktivera Modul',
+    'LBL_VIEW_ALL_RECORDS' => 'Se Poster i hela organisationen',
 
-	//Messages
-	'LBL_PREVILEGES_MESSAGE' => "Denna roll privilegier ska tillämpas till Portal Användare.",
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cases / Biljetter kommer att tilldelas till den valda innehavare av default / Användare från kundportalen.',
-	'LBL_PORTAL_URL_MESSAGE' => 'Detta är URL till portalen där dina kontakter kan logga in för att lämna / spåra händelse, bas tillgång kunskaper och göra mer. Kontakter kommer att skickas inloggningsuppgifterna när Portal åtkomst har aktiverats från Kontaktuppgiftersidan.',
-	'LBL_DRAG_AND_DROP_MESSAGE' => 'Dra och släpp-moduler för att sortera i kundportalen',
+    //Messages
+    'LBL_PREVILEGES_MESSAGE' => "Denna roll privilegier ska tillämpas till Portal Användare.",
+    'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cases / Biljetter kommer att tilldelas till den valda innehavare av default / Användare från kundportalen.',
+    'LBL_PORTAL_URL_MESSAGE' => 'Detta är URL till portalen där dina kontakter kan logga in för att lämna / spåra händelse, bas tillgång kunskaper och göra mer. Kontakter kommer att skickas inloggningsuppgifterna när Portal åtkomst har aktiverats från Kontaktuppgiftersidan.',
+    'LBL_DRAG_AND_DROP_MESSAGE' => 'Dra och släpp-moduler för att sortera i kundportalen',
     "LBL_CONTACTS_ENABLE_MESSAGE"=>"Kontakter kommer att skickas inloggningsuppgifterna när Portal åtkomst aktiveras från Kontaktuppgifter sidan.",
     "LBL_SUPPORT_NOTIFY_MESSAGE"=>"Stöd kontraktet förnyas varning meddelas på kundportal baserad på antal dagar inmatade.",
     "LBL_ADD_DOCUMENT"=>"Lägg till dokument",
@@ -73,7 +73,7 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED' => 'Kundportalsinställningar sparade',
+    'JS_PORTAL_INFO_SAVED' => 'Kundportalsinställningar sparade',
     "LBL_ADD_DOCUMENT"=>"Lägg till dokument",
     "LBL_OPEN_TICKETS"=>"Open Biljetter",
     "LBL_CREATE_TICKET"=>"Skapa Biljett",

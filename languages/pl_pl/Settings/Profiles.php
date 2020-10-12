@@ -8,18 +8,18 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'Profiles' => 'Profile',
-	'SINGLE_Profiles' => 'Profil',
-	'LBL_ADD_RECORD' => 'Dodaj profil',
-	
-	'LBL_VIEW_PRVILIGE' => 'Przegląd',
-	'LBL_EDIT_PRVILIGE' => 'Utwórz / Edytuj',
-	'LBL_DELETE_PRVILIGE' => 'Usuń',
-	'LBL_FIELD_PRVILIGES' => 'Uprawnienia na polach',
-	'LBL_TOOL_PRVILIGES' => 'Narzędzie do uprawnień',
-	'LBL_GLOBAL_PERMISSION_WARNING' => 'Uwaga: Użytkownicy związane z tego profilu może uzyskać dostęp do wszystkich rejestrów w CRM',
-	
+    // Basic Strings
+    'Profiles' => 'Profile',
+    'SINGLE_Profiles' => 'Profil',
+    'LBL_ADD_RECORD' => 'Dodaj profil',
+    
+    'LBL_VIEW_PRVILIGE' => 'Przegląd',
+    'LBL_EDIT_PRVILIGE' => 'Utwórz / Edytuj',
+    'LBL_DELETE_PRVILIGE' => 'Usuń',
+    'LBL_FIELD_PRVILIGES' => 'Uprawnienia na polach',
+    'LBL_TOOL_PRVILIGES' => 'Narzędzie do uprawnień',
+    'LBL_GLOBAL_PERMISSION_WARNING' => 'Uwaga: Użytkownicy związane z tego profilu może uzyskać dostęp do wszystkich rejestrów w CRM',
+    
 
   'LBL_CREATE_PROFILE' => 'Utworzyć Profil',
   'LBL_PROFILE_NAME' => 'Nazwa profilu',

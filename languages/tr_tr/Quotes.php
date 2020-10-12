@@ -9,18 +9,18 @@
  ************************************************************************************/
 $languageStrings = array(
     'Quotes'                       => 'Teklif'                      , 
-	'SINGLE_Quotes'                => 'Teklif'                      , 
-	'LBL_EXPORT_TO_PDF'            => 'PDF Olarak Aktar'            , 
-	'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
-	'LBL_ADD_RECORD'               => 'Add Quote'                   , 
-	'LBL_RECORDS_LIST'             => 'Teklfiler Listesi'           , 
-	'LBL_QUOTE_INFORMATION'        => 'Teklif Bilgisi'              , 
-	'Quote No'                     => 'Teklif No'                   , 
-	'Quote Stage'                  => 'Teklif Aşaması'            , 
-	'Valid Till'                   => 'Geçerlilik Tarihi'          , 
-	'Inventory Manager'            => 'Stok Yöneticisi'            , 
-	'Accepted'                     => 'Kabul Edildi'                , 
-	'Rejected'                     => 'İptal'                      , 
+    'SINGLE_Quotes'                => 'Teklif'                      , 
+    'LBL_EXPORT_TO_PDF'            => 'PDF Olarak Aktar'            , 
+    'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
+    'LBL_ADD_RECORD'               => 'Add Quote'                   , 
+    'LBL_RECORDS_LIST'             => 'Teklfiler Listesi'           , 
+    'LBL_QUOTE_INFORMATION'        => 'Teklif Bilgisi'              , 
+    'Quote No'                     => 'Teklif No'                   , 
+    'Quote Stage'                  => 'Teklif Aşaması'            , 
+    'Valid Till'                   => 'Geçerlilik Tarihi'          , 
+    'Inventory Manager'            => 'Stok Yöneticisi'            , 
+    'Accepted'                     => 'Kabul Edildi'                , 
+    'Rejected'                     => 'İptal'                      , 
     'Related To'                   => 'İlgili'                      ,
 
   'LBL_THIS' => 'Bu',

@@ -8,26 +8,26 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ProjectMilestone' => 'احداث المشروع',
-	'LBL_ADD_RECORD' => 'اضافة حدث للمشروع',
-	'LBL_RECORDS_LIST' => 'قائمة احداث المشاريع',
+    // Basic Strings
+    'SINGLE_ProjectMilestone' => 'احداث المشروع',
+    'LBL_ADD_RECORD' => 'اضافة حدث للمشروع',
+    'LBL_RECORDS_LIST' => 'قائمة احداث المشاريع',
     'LBL_PROJECTS_LIST' => 'قائمة المشاريع',
-	'LBL_TASKS_LIST' => 'قائمة المهام', 
+    'LBL_TASKS_LIST' => 'قائمة المهام', 
     'LBL_MILESTONES_LIST' => 'قائمة المعالم',
 
-	// Blocks
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'تفاصيل احداث المشروع',
-	
-	//Field Labels
-	'Project Milestone Name' => 'اسم حدث المشروع',
-	'Milestone Date' => 'تاريخ حدث المشروع',
-	'Project Milestone No' => 'رقم حدث المشروع',
+    // Blocks
+    'LBL_PROJECT_MILESTONE_INFORMATION' => 'تفاصيل احداث المشروع',
+    
+    //Field Labels
+    'Project Milestone Name' => 'اسم حدث المشروع',
+    'Milestone Date' => 'تاريخ حدث المشروع',
+    'Project Milestone No' => 'رقم حدث المشروع',
         'Type' => 'النوع',
     'Related to' => 'المتعلقة',
-	//picklist values
-	'administrative' => 'إداري',
+    //picklist values
+    'administrative' => 'إداري',
     'operative' => 'المنطوق',
     'other' => 'آخر',
-	
+    
 );

@@ -77,8 +77,8 @@
         'LBL_SAVE_AND_IMPORT' => 'Salvar e Importar',
         'LBL_IMPORT_RESULTS_GOOGLE' => 'Resultado Importação Google',
 
-	'LBL_REDIRECT_URL' => 'redirecionar url',
-	'LBL_REDIRECT_URL_MESSAGE' => 'Copie o seguinte URL de redirecionamento e colar no seu projeto auth google como mostra a imagem',
+    'LBL_REDIRECT_URL' => 'redirecionar url',
+    'LBL_REDIRECT_URL_MESSAGE' => 'Copie o seguinte URL de redirecionamento e colar no seu projeto auth google como mostra a imagem',
 );
     $jsLanguageStrings = array(
         'LBL_SYNC_BUTTON' => 'Sincronizar Agora',

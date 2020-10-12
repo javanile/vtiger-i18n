@@ -9,5 +9,5 @@
  *************************************************************************************/
 
 $languageStrings = array(
-	'SINGLE_ModTracker' => 'Narzędzie śledzenia',
+    'SINGLE_ModTracker' => 'Narzędzie śledzenia',
 );

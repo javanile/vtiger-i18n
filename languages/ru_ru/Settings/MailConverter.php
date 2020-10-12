@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Почта Конвертер",
+    'MailConverter'   =>   "Почта Конвертер",
     'MailConverter_Description'   =>   "Конвертировать письма на соответствующие записи",
     'MAILBOX'   =>   "MailBox",
     'RULE'   =>   "Правило",
@@ -168,7 +168,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Почта успешно удален",
+    'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Почта успешно удален",
     'JS_MAILBOX_LOADED_SUCCESSFULLY'   =>   "MailBox успешно загружен",
     'JS_SELECT_ATLEAST_ONE' => 'Пожалуйста карту по крайней мере одно поле',
     'JS_SERVER_NAME' => 'Введите имя сервера',

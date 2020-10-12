@@ -8,21 +8,21 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'PriceBooks' => 'Cenniki',
-	'SINGLE_PriceBooks' => 'Cennik',
-	'LBL_ADD_RECORD' => 'Dodaj Cennik',
-	'LBL_RECORDS_LIST' => 'Lista Cenników',
-	'LBL_RECORD_SUMMARY' => 'Podsumowanie Cennika',
+    // Basic Strings
+    'PriceBooks' => 'Cenniki',
+    'SINGLE_PriceBooks' => 'Cennik',
+    'LBL_ADD_RECORD' => 'Dodaj Cennik',
+    'LBL_RECORDS_LIST' => 'Lista Cenników',
+    'LBL_RECORD_SUMMARY' => 'Podsumowanie Cennika',
 
-	// Blocks
-	'LBL_PRICEBOOK_INFORMATION' => 'Cena Zarezerwuj Szczegóły',
-	'LBL_EDIT_LIST_PRICE' => 'Edytuj listê cenników',
+    // Blocks
+    'LBL_PRICEBOOK_INFORMATION' => 'Cena Zarezerwuj Szczegóły',
+    'LBL_EDIT_LIST_PRICE' => 'Edytuj listê cenników',
 
-	//Field Labels
-	'Price Book Name' => 'Nazwa cennika',
-	'PriceBook No' => 'Numer cennika',
-	
-	'LBL_UNIT_PRICE' => 'Cena za sztukę',
-	'LBL_ADD_TO' => 'Dodać do',
+    //Field Labels
+    'Price Book Name' => 'Nazwa cennika',
+    'PriceBook No' => 'Numer cennika',
+    
+    'LBL_UNIT_PRICE' => 'Cena za sztukę',
+    'LBL_ADD_TO' => 'Dodać do',
 );

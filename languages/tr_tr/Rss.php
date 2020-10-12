@@ -21,7 +21,7 @@ $languageStrings = Array(
 );
 
 $jsLanguageStrings = array(
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Başarıyla kaydedildi RSS',
+    'JS_RSS_SUCCESSFULLY_SAVED' => 'Başarıyla kaydedildi RSS',
     'JS_INVALID_RSS_URL' => 'Geçersiz Rss Url',
     'JS_RSS_MADE_AS_DEFAULT' => 'Varsayılan olarak yapılmıştır rss',
     

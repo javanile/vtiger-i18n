@@ -8,27 +8,27 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Faq' => 'FAQ',
-	'SINGLE_Faq' => 'FAQ',
-	'LBL_RECORDS_LIST' => 'FAQ Lista',
-	'LBL_ADD_RECORD' => 'Lägg till FAQ',
-	
-	//Blocks
-	'LBL_FAQ_INFORMATION' => 'FAQ Information',
-	'LBL_COMMENT_INFORMATION' =>  'Kommentarer',
-	
-	//Fields
-	'Question'=>'Fråga',
-	'Answer'=>'Svar',
-	'Comments'=>'Kommentarer',
-	'Faq No' => 'Faq nummer',
-	
-	//Added for existing Picklist Entries
-	'General'=>'Generell',
-	'Draft'=>'Utkast',
-	'Published'=>'Publicerad',
-	'Obsolete'=>'Föråldrad',
+    'Faq' => 'FAQ',
+    'SINGLE_Faq' => 'FAQ',
+    'LBL_RECORDS_LIST' => 'FAQ Lista',
+    'LBL_ADD_RECORD' => 'Lägg till FAQ',
+    
+    //Blocks
+    'LBL_FAQ_INFORMATION' => 'FAQ Information',
+    'LBL_COMMENT_INFORMATION' =>  'Kommentarer',
+    
+    //Fields
+    'Question'=>'Fråga',
+    'Answer'=>'Svar',
+    'Comments'=>'Kommentarer',
+    'Faq No' => 'Faq nummer',
+    
+    //Added for existing Picklist Entries
+    'General'=>'Generell',
+    'Draft'=>'Utkast',
+    'Published'=>'Publicerad',
+    'Obsolete'=>'Föråldrad',
 
-	//EditView
-	'LBL_SOLUTION' => 'Lösning',
+    //EditView
+    'LBL_SOLUTION' => 'Lösning',
 );

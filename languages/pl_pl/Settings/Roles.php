@@ -8,10 +8,10 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'Roles' => 'Role',
-	'SINGLE_Roles' => 'Rola',
-	'LBL_ADD_RECORD' => 'Dodaj role',
+    // Basic Strings
+    'Roles' => 'Role',
+    'SINGLE_Roles' => 'Rola',
+    'LBL_ADD_RECORD' => 'Dodaj role',
 
   'LBL_DELETE_ROLE' => 'Usuń Rolę',
   'LBL_TRANSFER_OWNERSHIP' => 'Przejście Prawa Własności',

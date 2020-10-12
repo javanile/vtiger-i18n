@@ -15,20 +15,20 @@
  *  Author       : JPL TSolucio, S. L. Joe Bordes
  *************************************************************************************/
 $languageStrings = array(
-	'CronTasks' => 'Planificador',
+    'CronTasks' => 'Planificador',
 
-	//Basic Field Names
-	'Id' => 'Id',
-	'Cron Job' => 'Tarea Programada',
-	'Frequency' => 'Frecuencia',
-	'Status' => 'Estado',
-	'Last Start' => 'Ultima ejecución empezó hace',
-	'Last End' => 'Ultima ejecución acabó hace',
-	'Sequence' => 'Secuencia',
+    //Basic Field Names
+    'Id' => 'Id',
+    'Cron Job' => 'Tarea Programada',
+    'Frequency' => 'Frecuencia',
+    'Status' => 'Estado',
+    'Last Start' => 'Ultima ejecución empezó hace',
+    'Last End' => 'Ultima ejecución acabó hace',
+    'Sequence' => 'Secuencia',
 
-	//Actions
-	'LBL_COMPLETED' => 'Terminado',
-	'LBL_RUNNING' => 'En ejecución',
-	'LBL_ACTIVE' => 'Activo',
-	'LBL_INACTIVE' => 'Inactivo',
+    //Actions
+    'LBL_COMPLETED' => 'Terminado',
+    'LBL_RUNNING' => 'En ejecución',
+    'LBL_ACTIVE' => 'Activo',
+    'LBL_INACTIVE' => 'Inactivo',
 );

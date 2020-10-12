@@ -8,23 +8,23 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ProjectTask' => 'Projekt Uppgift',
-	'LBL_ADD_RECORD' => 'Lägg till Projektppgifter',
-	'LBL_RECORDS_LIST' => 'Projektuppgiftslista',
+    // Basic Strings
+    'SINGLE_ProjectTask' => 'Projekt Uppgift',
+    'LBL_ADD_RECORD' => 'Lägg till Projektppgifter',
+    'LBL_RECORDS_LIST' => 'Projektuppgiftslista',
     'LBL_MILESTONES_LIST'=>'Milstolpar Lista',
 
-	// Blocks
-	'LBL_PROJECT_TASK_INFORMATION' => 'Projektuppgiftsuppgifter',
-	'LBL_PROJECTS_LIST' => 'Projektlista',
-	'LBL_TASKS_LIST' => 'Uppgiftslista',
-	
-	//Field Labels
-	'Project Task Name' => 'Project Task Namn',
+    // Blocks
+    'LBL_PROJECT_TASK_INFORMATION' => 'Projektuppgiftsuppgifter',
+    'LBL_PROJECTS_LIST' => 'Projektlista',
+    'LBL_TASKS_LIST' => 'Uppgiftslista',
+    
+    //Field Labels
+    'Project Task Name' => 'Project Task Namn',
     'Project Task No' => 'Projekt Task Nej',
     'Project Task Number' => 'Projekt Uppgift nummer',
-	'Status' => 'Status',
-	'Priority' => 'Prioritet',
+    'Status' => 'Status',
+    'Priority' => 'Prioritet',
     'Progress' => 'Framsteg',
     'Type'=>'Typ',
     'Worked Hours'=>'Arbetade timmar',
@@ -40,11 +40,11 @@ $languageStrings = array(
     'Created Time' => 'Skapad Tid',
     'Modified Time' => 'Modifierad Tid',
     'description' => 'Beskrivning',
-	'Assigned To' => 'Tilldelad',
-	'Open' => 'Öppet',
-	'In Progress' => 'In Progress',
-	'Completed' => 'Avslutat',
-	'Deferred' => 'Deferred',
-	'Canceled ' => 'Canceled',
+    'Assigned To' => 'Tilldelad',
+    'Open' => 'Öppet',
+    'In Progress' => 'In Progress',
+    'Completed' => 'Avslutat',
+    'Deferred' => 'Deferred',
+    'Canceled ' => 'Canceled',
         'LBL_NO_DATE_VALUE_MSG' => 'eller projektuppgifter inte har start och / eller slutdatum',
 );

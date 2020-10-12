@@ -10,10 +10,10 @@
   ********************************************************************************/
 
 $languageStrings = array(
-	'LBL_INVALID_OLD_PASSWORD' => 'Valor no válido dado por viejo contraseña.',
-	'LBL_NEW_PASSWORD_MISMATCH' => "Nueva contraseña y Confirmar contraseña no coinciden",
-	'LBL_DATABASE_QUERY_ERROR' => 'Error de base de datos mientras se realiza la operación solicitada',
-	'LBL_CHANGE_PASSWORD_FAILURE' => 'Error al cambiar la contraseña',
+    'LBL_INVALID_OLD_PASSWORD' => 'Valor no válido dado por viejo contraseña.',
+    'LBL_NEW_PASSWORD_MISMATCH' => "Nueva contraseña y Confirmar contraseña no coinciden",
+    'LBL_DATABASE_QUERY_ERROR' => 'Error de base de datos mientras se realiza la operación solicitada',
+    'LBL_CHANGE_PASSWORD_FAILURE' => 'Error al cambiar la contraseña',
 );
 
 

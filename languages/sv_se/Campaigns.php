@@ -8,67 +8,67 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'Campaigns' => 'Kampanjer',
-	'SINGLE_Campaigns' => 'Kampanj',
-	'LBL_ADD_RECORD' => 'Lägg till Kampanj',
-	'LBL_RECORDS_LIST' => 'Kampanjlista',
+    // Basic Strings
+    'Campaigns' => 'Kampanjer',
+    'SINGLE_Campaigns' => 'Kampanj',
+    'LBL_ADD_RECORD' => 'Lägg till Kampanj',
+    'LBL_RECORDS_LIST' => 'Kampanjlista',
 
-	// Blocks
-	'LBL_CAMPAIGN_INFORMATION' => 'Kampanjuppgifter',
-	'LBL_EXPECTATIONS_AND_ACTUALS' => 'Förväntningar och Utfall',
-	
-	//Fält Labels
-	'Campaign Name' => 'Kampanjnamn',
-	'Campaign No' => 'Kampanjnummer', 
-	'Campaign Type' => 'Kampanjtyp', 
-	'Product' => 'Produkt',
-	'Campaign Status' => 'Kampanjstatus',
-	'Num Sent' => 'Num Skickade',
-	'Sponsor' => 'Sponsor',
-	'Target Audience' => 'Målgrupp',
-	'TargetSize' => 'Målstorlek',
-	'Expected Response' => 'Förväntat svar',
-	'Expected Revenue' => 'Förväntat Intäkt',
-	'Budget Cost' => 'Budgetkostnad',
-	'Actual Cost' => 'Aktuella kostnad',
-	'Expected Response Count' => 'Förväntade svarsantal',
-	'Expected Sales Count' => 'Förväntat försäljningsresultat',
-	'Expected ROI' => 'Förväntat ROI',
-	'Actual Response Count' => 'Aktuella svarsantal',
-	'Actual Sales Count' => 'Aktuell försäljningsresultat',
-	'Actual ROI' => 'Aktuell ROI',
-	
-	//Added for existing Picklist Entries
+    // Blocks
+    'LBL_CAMPAIGN_INFORMATION' => 'Kampanjuppgifter',
+    'LBL_EXPECTATIONS_AND_ACTUALS' => 'Förväntningar och Utfall',
+    
+    //Fält Labels
+    'Campaign Name' => 'Kampanjnamn',
+    'Campaign No' => 'Kampanjnummer', 
+    'Campaign Type' => 'Kampanjtyp', 
+    'Product' => 'Produkt',
+    'Campaign Status' => 'Kampanjstatus',
+    'Num Sent' => 'Num Skickade',
+    'Sponsor' => 'Sponsor',
+    'Target Audience' => 'Målgrupp',
+    'TargetSize' => 'Målstorlek',
+    'Expected Response' => 'Förväntat svar',
+    'Expected Revenue' => 'Förväntat Intäkt',
+    'Budget Cost' => 'Budgetkostnad',
+    'Actual Cost' => 'Aktuella kostnad',
+    'Expected Response Count' => 'Förväntade svarsantal',
+    'Expected Sales Count' => 'Förväntat försäljningsresultat',
+    'Expected ROI' => 'Förväntat ROI',
+    'Actual Response Count' => 'Aktuella svarsantal',
+    'Actual Sales Count' => 'Aktuell försäljningsresultat',
+    'Actual ROI' => 'Aktuell ROI',
+    
+    //Added for existing Picklist Entries
 
-	'Webinar'=>'Webinar',
-	'Referral Program'=>'Värvningprogram',
-	'Advertisement'=>'Annonsering',
-	'Banner Ads'=>'Banderoll Reklam',
-	'Direct Mail'=>'Direkt E-post',
-	'Telemarketing'=>'Telemarknadsföring',
-	'Others'=>'Annat',
+    'Webinar'=>'Webinar',
+    'Referral Program'=>'Värvningprogram',
+    'Advertisement'=>'Annonsering',
+    'Banner Ads'=>'Banderoll Reklam',
+    'Direct Mail'=>'Direkt E-post',
+    'Telemarketing'=>'Telemarknadsföring',
+    'Others'=>'Annat',
 
-	'Planning'=>'Planering',						      	    
-	'Inactive'=>'Inaktiv',
-	'Complete'=>'Fullständig',
-	'Cancelled'=>'Avbryten',							      
+    'Planning'=>'Planering',                                      
+    'Inactive'=>'Inaktiv',
+    'Complete'=>'Fullständig',
+    'Cancelled'=>'Avbryten',                                  
 
-	'Excellent'=>'Utmärkt',
-	'Good'=>'Bra',
-	'Average'=>'Medel',
-	'Poor'=>'Dåligt',
-	
-	// status fields 
-	'--None--'=>'--None--',
-	'Contacted - Successful' => 'Kontaktade - Framgångsrikt',
-	'Contacted - Unsuccessful' => 'Kontaktade - Misslyckades',
-	'Contacted - Never Kontakt Again' => 'Kontaktade - Kontakta aldrig igen',
+    'Excellent'=>'Utmärkt',
+    'Good'=>'Bra',
+    'Average'=>'Medel',
+    'Poor'=>'Dåligt',
+    
+    // status fields 
+    '--None--'=>'--None--',
+    'Contacted - Successful' => 'Kontaktade - Framgångsrikt',
+    'Contacted - Unsuccessful' => 'Kontaktade - Misslyckades',
+    'Contacted - Never Kontakt Again' => 'Kontaktade - Kontakta aldrig igen',
 
   'Contacted - Never Contact Again' => 'Kontaktade Aldrig Kontakt Igen',
 
 );
 
 $jsLanguageStrings = array(
-	'JS_APPENDED_TO_EXISTING_LIST' => '%s från den valda listan kommer att läggas med den befintliga listan.',
+    'JS_APPENDED_TO_EXISTING_LIST' => '%s från den valda listan kommer att läggas med den befintliga listan.',
 );

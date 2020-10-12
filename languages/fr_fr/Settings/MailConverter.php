@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Mail Converter",
+    'MailConverter'   =>   "Mail Converter",
     'MailConverter_Description'   =>   "Convertir emails aux dossiers respectifs",
     'MAILBOX'   =>   "Boîte aux lettres",
     'RULE'   =>   "Article",
@@ -168,7 +168,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Boîte aux lettres supprimée avec succès",
+    'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Boîte aux lettres supprimée avec succès",
     'JS_MAILBOX_LOADED_SUCCESSFULLY'   =>   "Boîte aux lettres chargées avec succès",
     'JS_SELECT_ATLEAST_ONE' => "S'il vous plaît carte atleast un champ",
     'JS_SERVER_NAME' => 'Entrez le nom du serveur',

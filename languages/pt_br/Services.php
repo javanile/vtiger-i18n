@@ -8,37 +8,37 @@
  * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - www.ttcasolucoes.com.br
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'Services' => 'Serviços',
-	'SINGLE_Services' => 'Serviço',
-	'LBL_ADD_RECORD' => 'Adicionar Serviço',
-	'LBL_RECORDS_LIST' => 'Lista de Serviços',
+    // Basic Strings
+    'Services' => 'Serviços',
+    'SINGLE_Services' => 'Serviço',
+    'LBL_ADD_RECORD' => 'Adicionar Serviço',
+    'LBL_RECORDS_LIST' => 'Lista de Serviços',
 
-	// Blocks
-	'LBL_SERVICE_INFORMATION' => 'Detalhes Serviço',
-	
-	'LBL_MORE_CURRENCIES' => 'mais moedas', 
-	'LBL_PRICES' => 'Preços Serviço',
-	'LBL_PRICE' => 'Preço',
-	'LBL_RESET_PRICE' => 'Redefinir Preço',
-	'LBL_RESET' => 'Redefinir',
-	
-	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Adicionar na Lista de Preços',
+    // Blocks
+    'LBL_SERVICE_INFORMATION' => 'Detalhes Serviço',
+    
+    'LBL_MORE_CURRENCIES' => 'mais moedas', 
+    'LBL_PRICES' => 'Preços Serviço',
+    'LBL_PRICE' => 'Preço',
+    'LBL_RESET_PRICE' => 'Redefinir Preço',
+    'LBL_RESET' => 'Redefinir',
+    
+    //Services popup of pricebook
+    'LBL_ADD_TO_PRICEBOOKS' => 'Adicionar na Lista de Preços',
 
-	//Field Labels
-	'Service Name'=>'Nome Serviço',
-	'Service Active'=>'Ativo',
-	'Service Category'=>'Categoria',
-	'Service No'=>'No. Serviço',
-	'Owner'=>'Proprietário',
-	'No of Units'=>'Número de Unidades',
-	'Commission Rate'=>'Percentual Comissão',
-	'Price'=>'Preço',
-	'Usage Unit'=>'Unidade Utilizada',
-	'Tax Class'=>'Categoria Imposto',
-	'Website'=>'Website',
-	
-	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Adicionar na Lista de Preços',
+    //Field Labels
+    'Service Name'=>'Nome Serviço',
+    'Service Active'=>'Ativo',
+    'Service Category'=>'Categoria',
+    'Service No'=>'No. Serviço',
+    'Owner'=>'Proprietário',
+    'No of Units'=>'Número de Unidades',
+    'Commission Rate'=>'Percentual Comissão',
+    'Price'=>'Preço',
+    'Usage Unit'=>'Unidade Utilizada',
+    'Tax Class'=>'Categoria Imposto',
+    'Website'=>'Website',
+    
+    //Services popup of pricebook
+    'LBL_ADD_TO_PRICEBOOKS' => 'Adicionar na Lista de Preços',
 );

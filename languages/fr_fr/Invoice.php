@@ -45,8 +45,8 @@ $languageStrings = array(
     'Contact Name' => 'Nom contact',
     'Grand Total:' => 'Total:',
     'LBL_NOT_A_BUNDLE' => 'Pas un Package',
-    'LBL_SUB_PRODUCTS'	=> 'Produits sous',
-    'LBL_ACTION'	=> 'Action',
+    'LBL_SUB_PRODUCTS'    => 'Produits sous',
+    'LBL_ACTION'    => 'Action',
 
     'LBL_THIS' => 'Cette',
     'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'est supprimé du système.merci de supprimer ou de remplacer cet élément',

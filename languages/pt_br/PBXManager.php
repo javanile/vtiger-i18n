@@ -8,14 +8,14 @@
  * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - www.ttcasolucoes.com.br
  *************************************************************************************/
 $languageStrings = array(
-	'Asterisk' => 'Asterisk',
-	'Call From'=>'Chamada de',
-	'Call To'=>'Chamada para',
-	'LBL_CALL_INFORMATION' => 'Detalhes Chamada',
-	'PBXManager ID'=>'ID Gestor PBX',
-	'PBXManager' => 'Gestor PBX',
-	'SINGLE_PBXManager' => 'Gestor PBX',
-	'Time Of Call'=>'Hora Chamada',
+    'Asterisk' => 'Asterisk',
+    'Call From'=>'Chamada de',
+    'Call To'=>'Chamada para',
+    'LBL_CALL_INFORMATION' => 'Detalhes Chamada',
+    'PBXManager ID'=>'ID Gestor PBX',
+    'PBXManager' => 'Gestor PBX',
+    'SINGLE_PBXManager' => 'Gestor PBX',
+    'Time Of Call'=>'Hora Chamada',
     //Blocks
     'LBL_PBXMANAGER_INFORMATION' => 'Detalhes Chamada',
     'LBL_CUSTOM_INFORMATION'=>'Informação Customizada',

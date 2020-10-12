@@ -8,10 +8,10 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Преобразование Lead Mapping'        , 
-	'LBL_ORGANIZATIONS'            => 'Контрагенты'      , // KEY 5.x: COMBO_ACCOUNTS
-	'LBL_CONTACTS'                 => 'Контакты'            , // KEY 5.x: LBL_CONTACT_TITLE
-	'LBL_OPPURTUNITIES'            => 'ВОЗМОЖНОСТЕЙ'               , 
+    'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Преобразование Lead Mapping'        , 
+    'LBL_ORGANIZATIONS'            => 'Контрагенты'      , // KEY 5.x: COMBO_ACCOUNTS
+    'LBL_CONTACTS'                 => 'Контакты'            , // KEY 5.x: LBL_CONTACT_TITLE
+    'LBL_OPPURTUNITIES'            => 'ВОЗМОЖНОСТЕЙ'               , 
 );
 $jsLanguageStrings = array(
 );

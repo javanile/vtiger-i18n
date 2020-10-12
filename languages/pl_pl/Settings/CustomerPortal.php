@@ -8,7 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	"CustomerPortal"=>"Portal klientów",
+    "CustomerPortal"=>"Portal klientów",
     "LBL_PORTAL_DESCRIPTION"=>"Przywileje setup Portal Użytkownika",
     "LBL_PRIVILEGES"=>"Przywileje",
     "LBL_DEFAULT_ASSIGNEE"=>"Domyślnie Nabywca",
@@ -68,7 +68,7 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	"JS_PORTAL_INFO_SAVED"=>"Portal Klienta zapisane ustawienia",
+    "JS_PORTAL_INFO_SAVED"=>"Portal Klienta zapisane ustawienia",
     "LBL_ADD_DOCUMENT"=>"Dodaj dokument",
     "LBL_OPEN_TICKETS"=>"Otwarte Bilety",
     "LBL_CREATE_TICKET"=>"Utwórz Zgłoszenie",

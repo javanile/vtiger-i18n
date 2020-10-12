@@ -140,7 +140,7 @@ $languageStrings = [
     //Loading Labels
     'LBL_LOADING'                   => 'Loading',
     'LBL_LOADING_WIDGET'            => 'Loading Widget',
-    'LBL_LOADING_LISTVIEW_CONTENTS'	=> 'Loading, Please wait.',
+    'LBL_LOADING_LISTVIEW_CONTENTS'    => 'Loading, Please wait.',
 
     // Detail View
     'LBL_HISTORY'               => 'History',
@@ -806,7 +806,7 @@ $languageStrings = [
     'LBL_MERGING_CRITERIA_SELECTION' => 'Merging Criteria Selection',
     'LBL_AVAILABLE_FIELDS'           => 'Available Fields',
     'LBL_MERGE_RECORDS_DESCRIPTION'  => 'The primary record will be retained after the merge. You can select the column to retain the values.
-										The other record will be deleted but the related information will be merged.',
+                                        The other record will be deleted but the related information will be merged.',
     'LBL_MERGE_RECORDS_IN'    => 'Merge Records In',
     'LBL_FIELDS'              => 'Fields',
     'LBL_RECORD'              => 'Record',
@@ -903,7 +903,7 @@ $languageStrings = [
     // SMSNotifier Phone Format Warning
     'LBL_PHONE_FORMAT_WARNING'        => 'Please ensure that phone number is in international E.164 format',
     'LBL_PHONEFORMAT_WARNING_CONTENT' => 'The E.164 number formatting can have a maximum of fifteen digits and are usually written as follows: [+][country code][subscriber number including area code]
-										 For example, to convert a US phone number (415 599 2671) to E.164 format, one would need to add the \'+\' prefix and the country code (which is 1) in front of the number (+1 415 599 2671). In the UK and many other countries internationally, local dialing requires the addition of a 0 in front of the subscriber number. However, to use E.164 formatting, this 0 must be removed. A number such as 020 7183 8750 in the UK would be formatted as +44 20 7183 8750.',
+                                         For example, to convert a US phone number (415 599 2671) to E.164 format, one would need to add the \'+\' prefix and the country code (which is 1) in front of the number (+1 415 599 2671). In the UK and many other countries internationally, local dialing requires the addition of a 0 in front of the subscriber number. However, to use E.164 formatting, this 0 must be removed. A number such as 020 7183 8750 in the UK would be formatted as +44 20 7183 8750.',
     'LBL_WARNING'     => 'Warning',
     'LBL_ORIGIN'      => 'Origin',
     'SENT'            => 'Sent',
@@ -959,26 +959,26 @@ $languageStrings = [
 
     'LBL_COMPANY_DETAILS'    => 'Company Details',
     'COMPANY_LOGO_HELP_TEXT' => 'Please upload your lovely company logo. <br>Besides showing your company logo on your CRM,<br>
-									your company name and address details are used in <br>Email Campaigns (required to meet span regulations)<br>
-									and in Quotes.',
+                                    your company name and address details are used in <br>Email Campaigns (required to meet span regulations)<br>
+                                    and in Quotes.',
     'COMPANY_LOGO_HELP_TEXT_2' => "You can edit company details later from <br>
-									'CRM Settings > Templates > Company Details' page",
+                                    'CRM Settings > Templates > Company Details' page",
     'LBL_CHOOSE_PREFERENCES' => 'Choose your Preferences',
     'PREFERENCES_HELP_TEXT'  => 'Base Currency - Choose your primary currency. If you use multiple<br> 
-								currencies, all the values are converted to base currency and stored,<br>
-								using the conversion rate configured in CRM.',
+                                currencies, all the values are converted to base currency and stored,<br>
+                                using the conversion rate configured in CRM.',
     'PREFERENCES_HELP_TEXT_2' => 'Personal preferences can be configured by each user in your team.<br>
-									These include Timezone, Language, Date Format, Number Format.<br>
-									Number Format references are used for Currencies and other <br>
-									number fields in the CRM<br>
-									You can edit your preferences later from \'User Name > My Preferences \'',
+                                    These include Timezone, Language, Date Format, Number Format.<br>
+                                    Number Format references are used for Currencies and other <br>
+                                    number fields in the CRM<br>
+                                    You can edit your preferences later from \'User Name > My Preferences \'',
     'LBL_CANNOT_BE_CHANGED_LATER'      => 'Cannot be changed later',
     'IMPORT_CONTACTS_GOOGLE_HELP_TEXT' => 'We can bring contacts from Google and <br> you can also enable bi-direction sync to keep our<br>
-									Vtiger contacts and Google contacts(in selected group) updated.<br>
-									Click the button to authorize and get Contacts from Google.',
+                                    Vtiger contacts and Google contacts(in selected group) updated.<br>
+                                    Click the button to authorize and get Contacts from Google.',
     'IMPORT_CONTACTS_CSV_HELP_TEXT'  => 'You can import Contacts from CSV file.',
     'IMPORT_CONTACTS_CSV_HELP_TEXT2' => 'To Import Opportunities, Leads, Tickets, please look for Actions > Import button on any of the
-										 list views.',
+                                         list views.',
     'LBL_DOEST_FIRST_ROW_HEADER'   => 'Does first row in your file contains column headers?',
     'LBL_SELECT_CSV_FILE'          => 'Select CSV file',
     'LBL_START_IMPORTING'          => 'Start Importing',
@@ -987,9 +987,9 @@ $languageStrings = [
     'LBL_IMPORT_SYNC_INTIATED_MSG' => 'Your import is in progress. You will receive an email when import is completed.<br> Proceeding to Next step will not interrupt the import.',
     'LBL_TELL_US_ABOUT_YOU'        => 'Help us by telling us about your Company',
     'TELL_US_ABOUT_YOU_HELP_TEXT'  => 'We continue to make improvements to the CRM, and <br>
-									 knowing our users better will help us prioritize enhancements.',
+                                     knowing our users better will help us prioritize enhancements.',
     'TELL_US_ABOUT_YOU_HELP_TEXT_2' => 'The data you submitted here will not be revealed to anyone <Br>
-										outside Vtiger.',
+                                        outside Vtiger.',
     'LBL_INVALID_IMAGE'             => 'Invalid Image',
     'LBL_IMPORT_CONTACTS'           => 'Import Contacts',
     'LBL_FROM_GOOGLE'               => 'From Google',
@@ -1070,7 +1070,7 @@ $languageStrings = [
     'SINGLE_Contacts'          => 'Contact',
     'SINGLE_Project'           => 'Project',
     'LBL_ROLLUP_COMMENTS_INFO' => "If Roll up is set to 'On' comments on related records will be shown. 
-								 For example, if you are viewing comments on an Organization record, comments added to related Contacts, Opportunities, Tickets, ..etc would also be displayed.",
+                                 For example, if you are viewing comments on an Organization record, comments added to related Contacts, Opportunities, Tickets, ..etc would also be displayed.",
     'LBL_ROLLUP_COMMENTS' => 'Rollup Comments',
 
     //others

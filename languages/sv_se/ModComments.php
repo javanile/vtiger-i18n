@@ -8,21 +8,21 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ModComments' => 'Kommentar',
-	'LBL_RECORDS_LIST' => 'Kommentarslista',
+    // Basic Strings
+    'SINGLE_ModComments' => 'Kommentar',
+    'LBL_RECORDS_LIST' => 'Kommentarslista',
 
-	// Blocks
-	'LBL_MODCOMMENTS_INFORMATION' => 'Kommentarer',
-	'LBL_OTHER_INFORMATION' => 'Annan Information',
+    // Blocks
+    'LBL_MODCOMMENTS_INFORMATION' => 'Kommentarer',
+    'LBL_OTHER_INFORMATION' => 'Annan Information',
 
-	'LBL_ADDING_COMMENT' => 'Lägg till Kommentar',
-	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Skriv in komentarer här',
-	
-	//Field Labels
-	'Comment' => 'Kommentar',
-	'Creator' => 'Skapad av',
-	'Related To Comments' => 'Relaterad Till',
+    'LBL_ADDING_COMMENT' => 'Lägg till Kommentar',
+    'LBL_WRITE_YOUR_COMMENT_HERE' => 'Skriv in komentarer här',
+    
+    //Field Labels
+    'Comment' => 'Kommentar',
+    'Creator' => 'Skapad av',
+    'Related To Comments' => 'Relaterad Till',
     'LBL_COMMENTED_AT'             => 'Kommenterade på'            ,  
-	
+    
 );

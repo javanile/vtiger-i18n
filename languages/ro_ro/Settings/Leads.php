@@ -8,10 +8,10 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convert Lead Mapping'        , // TODO: Review
-	'LBL_ORGANIZATIONS'            => 'Organizations'               , // TODO: Review
-	'LBL_CONTACTS'                 => 'Contacts'                    , // TODO: Review
-	'LBL_OPPURTUNITIES'            => 'Oppurtunities'               , // TODO: Review
+    'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convert Lead Mapping'        , // TODO: Review
+    'LBL_ORGANIZATIONS'            => 'Organizations'               , // TODO: Review
+    'LBL_CONTACTS'                 => 'Contacts'                    , // TODO: Review
+    'LBL_OPPURTUNITIES'            => 'Oppurtunities'               , // TODO: Review
 );
 $jsLanguageStrings = array(
 );

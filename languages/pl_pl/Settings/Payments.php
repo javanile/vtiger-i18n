@@ -13,6 +13,6 @@ $languageStrings = array(
     'LBL_RIGHT_CLICK_COPY' => 'Prawy przycisk i kopiuj'
 );
 $jsLanguageStrings = array(
-	'JS_SAVED_SUCCESSFULLY' => 'Zapisano poprawnie',
-	'JS_DELETED_SUCCESSFULLY' => 'Usunięto poprawnie'
-);	
+    'JS_SAVED_SUCCESSFULLY' => 'Zapisano poprawnie',
+    'JS_DELETED_SUCCESSFULLY' => 'Usunięto poprawnie'
+);    

@@ -17,7 +17,7 @@ $languageStrings = [
     'LBL_CONFIGURE_DEPENDENCY_INFO'   => 'Click on the respective cell to change the mapping for picklist values of target field', // TODO: Review
     'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'Only mapped picklist values of the Source field will be shown below (except for first time)', // TODO: Review
     'LBL_CONFIGURE_DEPENDENCY_HELP_2' => 'If you want to see or change the mapping for the other picklist values of Source field, <br/>
-										then you can select the values by clicking on <b>\'Select Source values\'</b> button on the right side', // TODO: Review
+                                        then you can select the values by clicking on <b>\'Select Source values\'</b> button on the right side', // TODO: Review
     'LBL_CONFIGURE_DEPENDENCY_HELP_3'   => 'Selected values of the Target field values, are highlighted as', // TODO: Review
     'LBL_SELECT_SOURCE_VALUES'          => 'Select Source Values', // TODO: Review
     'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'Select Source Picklist Values', // TODO: Review

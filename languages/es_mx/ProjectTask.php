@@ -8,20 +8,20 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectTask'           => 'Tarea de proyecto'                   , 
-	'LBL_ADD_RECORD'               => 'Agregar Tarea de proyecto'           , 
-	'LBL_RECORDS_LIST'             => 'Lista de Tareas de proyecto'        , 
-	'LBL_PROJECT_TASK_INFORMATION' => 'Información de Tarea de proyecto'      , 
-	'LBL_PROJECTS_LIST'            => 'Lista de proyectos'               , 
-	'LBL_TASKS_LIST'               => 'Lista de Actividades'                  , 
+    'SINGLE_ProjectTask'           => 'Tarea de proyecto'                   , 
+    'LBL_ADD_RECORD'               => 'Agregar Tarea de proyecto'           , 
+    'LBL_RECORDS_LIST'             => 'Lista de Tareas de proyecto'        , 
+    'LBL_PROJECT_TASK_INFORMATION' => 'Información de Tarea de proyecto'      , 
+    'LBL_PROJECTS_LIST'            => 'Lista de proyectos'               , 
+    'LBL_TASKS_LIST'               => 'Lista de Actividades'                  , 
     'LBL_MILESTONES_LIST'          => 'Lista de metas'              ,
-	
-	//Field Labels
-	'Project Task Name' => 'Nombre de la Tarea de proyecto',
+    
+    //Field Labels
+    'Project Task Name' => 'Nombre de la Tarea de proyecto',
     'Project Task No' => 'Núm. de la Tarea de proyecto',
     'Project Task Number' => 'Número de la Tarea de proyecto',
-	'Status' => 'Estado',
-	'Priority' => 'Prioridad',
+    'Status' => 'Estado',
+    'Priority' => 'Prioridad',
     'Progress' => 'Progreso',
     'Type'=>'Tipo',
     'Worked Hours'=>'Horas trabajadas',
@@ -37,10 +37,10 @@ $languageStrings = array(
     'Created Time' => 'Hora de creación',
     'Modified Time' => 'Hora de modificación',
     'description' => 'Descripción',
-	'Assigned To' => 'Asignado a',
-	'Open' => 'Abierto',
-	'In Progress' => 'En progreso',
-	'Deferred' => 'Diferido',
-	'Canceled ' => 'Cancelado',
+    'Assigned To' => 'Asignado a',
+    'Open' => 'Abierto',
+    'In Progress' => 'En progreso',
+    'Deferred' => 'Diferido',
+    'Canceled ' => 'Cancelado',
         'LBL_NO_DATE_VALUE_MSG' => 'Las tareas del proyecto no tienen fecha de inicio ni / o de término',
 );

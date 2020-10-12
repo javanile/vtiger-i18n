@@ -9,28 +9,28 @@
  *************************************************************************************/
 $languageStrings = array(
     'Quotes' => 'Oferta',
-	//DetailView Actions
-	'SINGLE_Quotes' => 'Oferta',
-	'LBL_EXPORT_TO_PDF' => 'Eksport do PDF',
+    //DetailView Actions
+    'SINGLE_Quotes' => 'Oferta',
+    'LBL_EXPORT_TO_PDF' => 'Eksport do PDF',
 
-	//Basic strings
-	'LBL_ADD_RECORD' => 'Dodaj Ofertę',
-	'LBL_RECORDS_LIST' => 'Lista Ofert',
-	'LBL_RECORD_SUMMARY' => 'Podsumowanie Oferty',
+    //Basic strings
+    'LBL_ADD_RECORD' => 'Dodaj Ofertę',
+    'LBL_RECORDS_LIST' => 'Lista Ofert',
+    'LBL_RECORD_SUMMARY' => 'Podsumowanie Oferty',
 
-	// Blocks
-	'LBL_QUOTE_INFORMATION' => 'Cytat deatils',
-	
-	//Field Labels
-	'Quote No'=>'Numer oferty',
-	'Quote Stage'=>'Status oferty',
-	'Valid Till'=>'Termin ważności',
-	'Inventory Manager'=>'Kierownik Magazynu',
+    // Blocks
+    'LBL_QUOTE_INFORMATION' => 'Cytat deatils',
+    
+    //Field Labels
+    'Quote No'=>'Numer oferty',
+    'Quote Stage'=>'Status oferty',
+    'Valid Till'=>'Termin ważności',
+    'Inventory Manager'=>'Kierownik Magazynu',
     'Related To' => 'Związane z',
-	//Added for existing Picklist Entries
+    //Added for existing Picklist Entries
 
-	'Accepted'=>'Zaakceptowana',
-	'Rejected'=>'Odrzucona',
+    'Accepted'=>'Zaakceptowana',
+    'Rejected'=>'Odrzucona',
 
 
   'LBL_SEND_MAIL_PDF' => 'Wysłać e-mail z PDF',

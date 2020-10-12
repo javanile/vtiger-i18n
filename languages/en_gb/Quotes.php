@@ -9,18 +9,18 @@
  ************************************************************************************/
 $languageStrings = array(
     'Quotes'                       => 'Quote'                       , 
-	'SINGLE_Quotes'                => 'Quote'                       , 
-	'LBL_EXPORT_TO_PDF'            => 'Export To PDF'               , 
-	'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
-	'LBL_ADD_RECORD'               => 'Add Quote'                   , 
-	'LBL_RECORDS_LIST'             => 'Quotes List'                 , 
-	'LBL_QUOTE_INFORMATION'        => 'Quote Details'               , 
-	'Quote No'                     => 'Quote No.'                   , 
-	'Quote Stage'                  => 'Quote Stage'                 , 
-	'Valid Till'                   => 'Valid until'                 , 
-	'Inventory Manager'            => 'Inventory Manager'           , 
-	'Accepted'                     => 'Accepted'                    , 
-	'Rejected'                     => 'Rejected'                    , 
+    'SINGLE_Quotes'                => 'Quote'                       , 
+    'LBL_EXPORT_TO_PDF'            => 'Export To PDF'               , 
+    'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
+    'LBL_ADD_RECORD'               => 'Add Quote'                   , 
+    'LBL_RECORDS_LIST'             => 'Quotes List'                 , 
+    'LBL_QUOTE_INFORMATION'        => 'Quote Details'               , 
+    'Quote No'                     => 'Quote No.'                   , 
+    'Quote Stage'                  => 'Quote Stage'                 , 
+    'Valid Till'                   => 'Valid until'                 , 
+    'Inventory Manager'            => 'Inventory Manager'           , 
+    'Accepted'                     => 'Accepted'                    , 
+    'Rejected'                     => 'Rejected'                    , 
     'Related To'                   => 'Related To'                  ,
 
   'LBL_THIS' => 'This',

@@ -8,17 +8,17 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	
-	'Asterisk' => 'Asterisk',
-	'PBXManager' => 'Połączenia Telefoniczne',
-	'SINGLE_PBXManager' => 'Połączenie Telefoniczne',
-	
-	//Blocks
-	'LBL_CALL_INFORMATION' => 'Szczegóły połączenia',
-	
-	//Field Labels
-	'Call From'=>'Połączenia OD',
-	'Call To'=>'Połączenia DO',
-	'Time Of Call'=>'Czas Połączeń',
-	'PBXManager ID' => 'ID Połączenia'
+    
+    'Asterisk' => 'Asterisk',
+    'PBXManager' => 'Połączenia Telefoniczne',
+    'SINGLE_PBXManager' => 'Połączenie Telefoniczne',
+    
+    //Blocks
+    'LBL_CALL_INFORMATION' => 'Szczegóły połączenia',
+    
+    //Field Labels
+    'Call From'=>'Połączenia OD',
+    'Call To'=>'Połączenia DO',
+    'Time Of Call'=>'Czas Połączeń',
+    'PBXManager ID' => 'ID Połączenia'
 );

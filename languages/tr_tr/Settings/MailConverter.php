@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Mail Converter",
+    'MailConverter'   =>   "Mail Converter",
     'MailConverter_Description'   =>   "Ilgili kayıtları için e-posta dönüştürmek",
     'MAILBOX'   =>   "Posta Kutusu",
     'RULE'   =>   "Kural",
@@ -168,7 +168,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Posta Kutusu başarıyla silindi",
+    'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Posta Kutusu başarıyla silindi",
     'JS_MAILBOX_LOADED_SUCCESSFULLY'   =>   "Posta Kutusu Başarıyla yüklendi",
     'JS_SELECT_ATLEAST_ONE' => 'En az bir alan harita Lütfen',
     'JS_SERVER_NAME' => 'Sunucu adı girin',

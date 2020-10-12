@@ -16,12 +16,12 @@
  *  Author       : JPL TSolucio, S. L. Joe Bordes
  ************************************************************************************/
 $languageStrings = array(
-	'Asterisk'                     => 'Asterisk',
-	'PBXManager'                   => 'Administrador PBX',
-	'SINGLE_PBXManager'            => 'Administrador PBX',
-	'LBL_CALL_INFORMATION'         => 'Detalles Llamada',
-	'Call From'                    => 'Llamada de',
-	'Call To'                      => 'Llamar a',
-	'Time Of Call'                 => 'Tiempo de Llamada',
-	'PBXManager ID'                => 'Id Administrador PBX',
+    'Asterisk'                     => 'Asterisk',
+    'PBXManager'                   => 'Administrador PBX',
+    'SINGLE_PBXManager'            => 'Administrador PBX',
+    'LBL_CALL_INFORMATION'         => 'Detalles Llamada',
+    'Call From'                    => 'Llamada de',
+    'Call To'                      => 'Llamar a',
+    'Time Of Call'                 => 'Tiempo de Llamada',
+    'PBXManager ID'                => 'Id Administrador PBX',
 );

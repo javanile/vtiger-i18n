@@ -8,20 +8,20 @@
  * All Rights Reserved. Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - www.ttcasolucoes.com.br
  *************************************************************************************/
 $languageStrings = array(
-	'CronTasks' => 'Agendador',
+    'CronTasks' => 'Agendador',
 
-	//Basic Field Names
-	'Id' => 'Id',
-	'Cron Job' => 'Tarafe Cron',
-	'Frequency' => 'Frequência',
-	'Status' => 'Status',
-	'Last Start' => 'Última verificação iniciada',
-	'Last End' => 'Último verificação finalizada',
-	'Sequence' => 'Sequência',
+    //Basic Field Names
+    'Id' => 'Id',
+    'Cron Job' => 'Tarafe Cron',
+    'Frequency' => 'Frequência',
+    'Status' => 'Status',
+    'Last Start' => 'Última verificação iniciada',
+    'Last End' => 'Último verificação finalizada',
+    'Sequence' => 'Sequência',
 
-	//Actions
-	'LBL_COMPLETED' => 'Concluído',
-	'LBL_RUNNING' => 'Executando',
-	'LBL_ACTIVE' => 'Ativo',
-	'LBL_INACTIVE' => 'Inativo',
+    //Actions
+    'LBL_COMPLETED' => 'Concluído',
+    'LBL_RUNNING' => 'Executando',
+    'LBL_ACTIVE' => 'Ativo',
+    'LBL_INACTIVE' => 'Inativo',
 );

@@ -52,7 +52,7 @@ $languageStrings = [
     'LBL_PICKLIST_DEPENDENCY_DESCRIPTION'          => 'Set up dependency between picklist values in each module',
     'LBL_MENU_EDITOR'                              => 'Menu principale',
     'LBL_MENU_DESC'                                => 'Customize Menu Sequence',
-    'LBL_MENU_EDITOR_MESSAGE'		                    => 'Il numero effettivo di voci di menu visualizzate dipender� dalla dimensione dello schermo e pu� essere inferiore a elementi selezionati.',
+    'LBL_MENU_EDITOR_MESSAGE'                            => 'Il numero effettivo di voci di menu visualizzate dipender� dalla dimensione dello schermo e pu� essere inferiore a elementi selezionati.',
     'EMAILTEMPLATES'                               => 'Template Email',
     'LBL_EMAIL_TEMPLATE_DESCRIPTION'               => 'Gestisce i template per il modulo Email',
     'LBL_COMPANY_DETAILS'                          => 'Dettagli Societ&agrave;',
@@ -175,10 +175,10 @@ $languageStrings = [
     'LBL_OUTGOING_SERVER_DESC'         => 'Configure your Outgoing Mail Server details', // TODO: Review
     'LBL_DEFAULT'                      => 'By default, SMTP account settings for the outgoing server are configured to od1.vtiger.com mail server. To avoid outgoing emails getting filtered out by spam filters on your recipient ISP mail server, we recommend you implement one of the following.', // TODO: Review
     'LBL_OPTIONS1'                     => 'Send emails from your mail server<br>
-					- Enter the SMTP account details (Server Name, User Name, Password) for the same account as entered in the FROM email address.', // TODO: Review
-    'LBL_OPTIONS2'					=> "Add vtiger.com server as an authorized sender of emails for your domain <b>(your_company.com)</b> when you are using your <b>From Email (eg : support@your_company.com)</b>.<br>
-										-To ensure that your emails are not rejected by recipient's Server as SPAM,
-										the below mentioned TXT record should be added to your domain's DNS record",
+                    - Enter the SMTP account details (Server Name, User Name, Password) for the same account as entered in the FROM email address.', // TODO: Review
+    'LBL_OPTIONS2'                    => "Add vtiger.com server as an authorized sender of emails for your domain <b>(your_company.com)</b> when you are using your <b>From Email (eg : support@your_company.com)</b>.<br>
+                                        -To ensure that your emails are not rejected by recipient's Server as SPAM,
+                                        the below mentioned TXT record should be added to your domain's DNS record",
     'LBL_MAIL_SERVER_SMTP'                   => 'Mail Server Settings (SMTP)', // TODO: Review
     'LBL_OUTGOING_SERVER_FROM_FIELD'         => 'NOTE: If "From Email" field is set to blank then the User Email address will be picked up.', // TODO: Review
     'LBL_TESTMAILSTATUS'                     => 'Test Mail Status : ', // TODO: Review
@@ -277,10 +277,10 @@ $languageStrings = [
     'percent'                        => 'Percentuale',
     'skype'                          => 'Skype',
     'image'                          => 'Immagine',
-    'LBL_DEFAULT_TAX_MODE'		         => 'Modalità fiscale default',
+    'LBL_DEFAULT_TAX_MODE'                 => 'Modalità fiscale default',
     'LBL_RELATIONSHIPS'              => 'Relazioni',
     'LBL_MODULE_BUILDER_DESCRIPTION' => 'Creazione di nuovi moduli',
-    'LBL_GATEWAY_CONFIGURATION'		    => 'Pagamento Configurazione Gateway',
+    'LBL_GATEWAY_CONFIGURATION'            => 'Pagamento Configurazione Gateway',
     'MAIN_PRODUCT_WHITELABEL'        => 'Etichettatura bianco CRM',
     'LBL_WHITE_LABELING_INFO'        => "L'attivazione di questo rimuoverà icona feedback, collegamenti video, nuove funzionalità video e piè di pagina dal CRM.",
     'LBL_WHITE_LABELING_INFO_MSG'    => "L'attivazione di questo rimuoverà tasto di aiuto e piè di pagina dal CRM.",

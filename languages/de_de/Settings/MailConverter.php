@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   'Mail Converter',
+    'MailConverter'   =>   'Mail Converter',
     'MailConverter_Description'   =>   'Rechnen Sie E-Mails mit entsprechenden Aufzeichnungen',
     'MAILBOX'   =>   'Mailbox',
     'RULE'   =>   'Geschäftsordnung',
@@ -170,7 +170,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   'Postfach gelöscht erfolgreich',
+    'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   'Postfach gelöscht erfolgreich',
     'JS_MAILBOX_LOADED_SUCCESSFULLY'   =>   'Mailbox erfolgreich geladen',
     'JS_SELECT_ATLEAST_ONE' => 'Bitte Karte atleast ein Feld',
     'JS_SERVER_NAME' => 'Geben Sie den Servernamen',

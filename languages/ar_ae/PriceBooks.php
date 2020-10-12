@@ -8,20 +8,20 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'PriceBooks' => 'كتب الاسعار',
-	'SINGLE_PriceBooks' => 'كتاب الاسعار',
-	'LBL_ADD_RECORD' => 'اضافة كتاب اسعار',
-	'LBL_RECORDS_LIST' => 'قائمة كتب الاسعار',
+    // Basic Strings
+    'PriceBooks' => 'كتب الاسعار',
+    'SINGLE_PriceBooks' => 'كتاب الاسعار',
+    'LBL_ADD_RECORD' => 'اضافة كتاب اسعار',
+    'LBL_RECORDS_LIST' => 'قائمة كتب الاسعار',
 
-	// Blocks
-	'LBL_PRICEBOOK_INFORMATION' => 'تفاصيل كتاب الاسعار',
-	'LBL_EDIT_LIST_PRICE' => 'تعديل قائمة الاسعار',
+    // Blocks
+    'LBL_PRICEBOOK_INFORMATION' => 'تفاصيل كتاب الاسعار',
+    'LBL_EDIT_LIST_PRICE' => 'تعديل قائمة الاسعار',
 
-	//Field Labels
-	'Price Book Name' => 'اسم كتاب الاسعار',
-	'PriceBook No' => 'رقم كتاب الاسعار',
-	
-	'LBL_UNIT_PRICE' => 'سعر الوحدة',
-	'LBL_ADD_TO' => 'إضافة إلى',
+    //Field Labels
+    'Price Book Name' => 'اسم كتاب الاسعار',
+    'PriceBook No' => 'رقم كتاب الاسعار',
+    
+    'LBL_UNIT_PRICE' => 'سعر الوحدة',
+    'LBL_ADD_TO' => 'إضافة إلى',
 );

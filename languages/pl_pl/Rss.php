@@ -21,7 +21,7 @@ $languageStrings = Array(
 );
 
 $jsLanguageStrings = array(
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss pomyślnie,',
+    'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss pomyślnie,',
     'JS_INVALID_RSS_URL' => 'Nieprawidłowy RSS url',
     'JS_RSS_MADE_AS_DEFAULT' => 'Rss Wykonane jako domyślne',
     

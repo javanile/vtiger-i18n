@@ -8,24 +8,24 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ProjectTask' => 'Zadanie Projektu',
-	'LBL_ADD_RECORD' => 'Dodaj Zadanie Projektu',
-	'LBL_RECORDS_LIST' => 'Lista Zadań Projektu',
-	'LBL_RECORD_SUMMARY' => 'Podsumowanie Zadania Projektu',
+    // Basic Strings
+    'SINGLE_ProjectTask' => 'Zadanie Projektu',
+    'LBL_ADD_RECORD' => 'Dodaj Zadanie Projektu',
+    'LBL_RECORDS_LIST' => 'Lista Zadań Projektu',
+    'LBL_RECORD_SUMMARY' => 'Podsumowanie Zadania Projektu',
     'LBL_MILESTONES_LIST'=>'Lista Milestones',
 
-	// Blocks
-	'LBL_PROJECT_TASK_INFORMATION' => 'Szczegóły zadań projektu',
-	'LBL_PROJECTS_LIST' => 'Lista projektów',
-	'LBL_TASKS_LIST' => 'Lista zadań',
-	
-	//Field Labels
-	'Project Task Name' => 'Nazwa projektu Zadanie',
+    // Blocks
+    'LBL_PROJECT_TASK_INFORMATION' => 'Szczegóły zadań projektu',
+    'LBL_PROJECTS_LIST' => 'Lista projektów',
+    'LBL_TASKS_LIST' => 'Lista zadań',
+    
+    //Field Labels
+    'Project Task Name' => 'Nazwa projektu Zadanie',
     'Project Task No' => 'Projekt nr Zadanie',
     'Project Task Number' => 'Numer zadania projektu',
-	'Status' => 'Status',
-	'Priority' => 'Priorytet',
+    'Status' => 'Status',
+    'Priority' => 'Priorytet',
     'Progress' => 'Postęp',
     'Type'=>'Type',
     'Worked Hours'=>'Przepracowane godziny',
@@ -41,11 +41,11 @@ $languageStrings = array(
     'Created Time' => 'Utworzono Czas',
     'Modified Time' => 'Zmodyfikowany czas',
     'description' => 'Opis',
-	'Assigned To' => 'Przypisany do',
-	'Open' => 'Otwarte',
-	'In Progress' => 'W toku',
-	'Completed' => 'Zakończony',
-	'Deferred' => 'Odroczona',
-	'Canceled ' => 'Odwołany',
+    'Assigned To' => 'Przypisany do',
+    'Open' => 'Otwarte',
+    'In Progress' => 'W toku',
+    'Completed' => 'Zakończony',
+    'Deferred' => 'Odroczona',
+    'Canceled ' => 'Odwołany',
         'LBL_NO_DATE_VALUE_MSG' => 'lub Zadania projektowe nie mają rozpoczęcia i / lub zakończenia Data',
 );

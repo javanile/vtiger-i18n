@@ -29,6 +29,6 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_TAB_NAME_SHOULD_NOT_BE_EMPTY' => 'Nom du tableau de bord ne peut pas être vide',
-	'JS_NO_DATA_AVAILABLE' => 'Pas de données disponibles',
+    'JS_TAB_NAME_SHOULD_NOT_BE_EMPTY' => 'Nom du tableau de bord ne peut pas être vide',
+    'JS_NO_DATA_AVAILABLE' => 'Pas de données disponibles',
 );

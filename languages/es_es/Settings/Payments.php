@@ -20,6 +20,6 @@ $languageStrings = array(
     'LBL_RIGHT_CLICK_COPY' => 'Clic botón derecho y copia'
 );
 $jsLanguageStrings = array(
-	'JS_SAVED_SUCCESSFULLY' => 'Guardado Correctamente',
-	'JS_DELETED_SUCCESSFULLY' => 'Eliminado Correctamente'
-);	
+    'JS_SAVED_SUCCESSFULLY' => 'Guardado Correctamente',
+    'JS_DELETED_SUCCESSFULLY' => 'Eliminado Correctamente'
+);    

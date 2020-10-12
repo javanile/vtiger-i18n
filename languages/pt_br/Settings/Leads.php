@@ -8,11 +8,11 @@
  * All Rights Reserved. Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - www.ttcasolucoes.com.br
  *************************************************************************************/
 $languageStrings = array(
-	//Actions
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Mapeamento Conversão Lead',
-	'LBL_ORGANIZATIONS' => 'Organizações',
-	'LBL_CONTACTS' => 'Contatos',
-	'LBL_OPPURTUNITIES' => 'Oportunidades',
+    //Actions
+    'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Mapeamento Conversão Lead',
+    'LBL_ORGANIZATIONS' => 'Organizações',
+    'LBL_CONTACTS' => 'Contatos',
+    'LBL_OPPURTUNITIES' => 'Oportunidades',
 );
 $jsLanguageStrings = array(
 );

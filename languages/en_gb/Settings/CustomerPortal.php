@@ -8,21 +8,21 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal'               => 'Customer Portal'             , // TODO: Review
-	'LBL_PORTAL_DESCRIPTION'       => 'Setup Privileges of Portal User', // TODO: Review
-	'LBL_PRIVILEGES'               => 'Privileges'                  , // TODO: Review
-	'LBL_DEFAULT_ASSIGNEE'         => 'Default Assignee'            , // TODO: Review
-	'LBL_PORTAL_URL'               => 'Portal Url'                  , // TODO: Review
-	'LBL_MODULE_NAME'              => 'Module Name'                 , // TODO: Review
-	'LBL_ENABLE_MODULE'            => 'Enable Module'               , // TODO: Review
-	'LBL_VIEW_ALL_RECORDS'         => 'See Records across Organization', // TODO: Review
-	//Messages
-	'LBL_PREVILEGES_MESSAGE' => "This User's privileges will be applied to the Portal User.",
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cases/Tickets will be Assigned to the selected Assignee by the default Group/User from the Customer Portal.',
-	'LBL_PORTAL_URL_MESSAGE' => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more.',
+    'CustomerPortal'               => 'Customer Portal'             , // TODO: Review
+    'LBL_PORTAL_DESCRIPTION'       => 'Setup Privileges of Portal User', // TODO: Review
+    'LBL_PRIVILEGES'               => 'Privileges'                  , // TODO: Review
+    'LBL_DEFAULT_ASSIGNEE'         => 'Default Assignee'            , // TODO: Review
+    'LBL_PORTAL_URL'               => 'Portal Url'                  , // TODO: Review
+    'LBL_MODULE_NAME'              => 'Module Name'                 , // TODO: Review
+    'LBL_ENABLE_MODULE'            => 'Enable Module'               , // TODO: Review
+    'LBL_VIEW_ALL_RECORDS'         => 'See Records across Organization', // TODO: Review
+    //Messages
+    'LBL_PREVILEGES_MESSAGE' => "This User's privileges will be applied to the Portal User.",
+    'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cases/Tickets will be Assigned to the selected Assignee by the default Group/User from the Customer Portal.',
+    'LBL_PORTAL_URL_MESSAGE' => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more.',
     'LBL_CONTACTS_ENABLE_MESSAGE'=>'Contacts will be sent the login details when Portal access is enabled from Contact details page.',
     'LBL_SUPPORT_NOTIFY_MESSAGE'=>'Support contract renewal alert is notified on the customer portal based on the number of days entered.',
-	'LBL_DRAG_AND_DROP_MESSAGE' => 'Drag and Drop modules to reorder in the Customer Portal',
+    'LBL_DRAG_AND_DROP_MESSAGE' => 'Drag and Drop modules to reorder in the Customer Portal',
     //Portal shortcuts
     'LBL_ADD_DOCUMENT'=>'Add Document',
     'LBL_OPEN_TICKETS'=>'Open Tickets',
@@ -77,7 +77,7 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED' => 'Customer Portal settings saved',
+    'JS_PORTAL_INFO_SAVED' => 'Customer Portal settings saved',
     'LBL_ADD_DOCUMENT'=>'Add Document',
     'LBL_OPEN_TICKETS'=>'Open Tickets',
     'LBL_CREATE_TICKET'=>'Create Ticket',

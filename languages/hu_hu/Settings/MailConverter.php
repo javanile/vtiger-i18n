@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Mail átalakító",
+    'MailConverter'   =>   "Mail átalakító",
     'MailConverter_Description'   =>   "Átalakítás e-maileket, hogy az egyes rekordok",
     'MAILBOX'   =>   "Postafiókja",
     'RULE'   =>   "Szabály",

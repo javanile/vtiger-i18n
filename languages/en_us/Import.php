@@ -10,7 +10,7 @@
 $languageStrings = [
     'LBL_IMPORT_STEP_1'                      => 'Step 1',
     'LBL_IMPORT_STEP_1_DESCRIPTION'          => 'Select File',
-    'LBL_IMPORT_SUPPORTED_FILE_TYPES'        => '	Supported File Type(s): .CSV, .VCF',
+    'LBL_IMPORT_SUPPORTED_FILE_TYPES'        => '    Supported File Type(s): .CSV, .VCF',
     'LBL_IMPORT_STEP_2'                      => 'Step 2',
     'LBL_IMPORT_STEP_2_DESCRIPTION'          => 'Specify Format',
     'LBL_FILE_TYPE'                          => 'File Type',
@@ -66,7 +66,7 @@ $languageStrings = [
     'LBL_INVALID_FILE'                       => 'Invalid File',
     'LBL_NO_ROWS_FOUND'                      => 'No rows found',
     'LBL_SCHEDULED_IMPORT_DETAILS'           => 'Your import has been scheduled and will start within 15 minutes. You will receive an email after import is completed.  <br> <br>
-										Please make sure that the Outgoing server and your email address is configured to receive email notification',
+                                        Please make sure that the Outgoing server and your email address is configured to receive email notification',
     'LBL_DETAILS' => 'Details',
     'skipped'     => 'Skipped Records',
     'failed'      => 'Failed Records',

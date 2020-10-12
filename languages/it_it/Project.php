@@ -40,8 +40,8 @@ $languageStrings = [
     'LBL_TASKS_NORMAL'             => 'Priorità normale',
     'LBL_TASKS_LOW'                => 'Bassa priorità',
     'LBL_TASKS_OTHER'              => 'Altre priorità',
-    'LBL_SELECT_PROGRESS'			       => 'Progress - Tutti',
-    'LBL_SELECT_STATUS'				        => 'Stato - Tutto',
+    'LBL_SELECT_PROGRESS'                   => 'Progress - Tutti',
+    'LBL_SELECT_STATUS'                        => 'Stato - Tutto',
 
     //picklist values
     'prospecting'          => 'Prospezione',

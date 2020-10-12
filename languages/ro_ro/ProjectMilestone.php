@@ -8,20 +8,20 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ProjectMilestone'	=>	"Proiectul Milestone",
-	'LBL_ADD_RECORD'	=>	"Adăugați etapă a proiectului",
-	'LBL_RECORDS_LIST'	=>	"Lista Repere proiect",
-	'LBL_PROJECTS_LIST'	=>	"Lista proiectelor",
-	'LBL_TASKS_LIST'	=>	"Lista de sarcini",
-	'LBL_MILESTONES_LIST'	=>	"Lista Repere",
-	'LBL_PROJECT_MILESTONE_INFORMATION'	=>	"Detalii proiect Milestone",
-	'Project Milestone Name'	=>	"Proiectul Milestone Numele",
-	'Milestone Date'	=>	"Milestone Data",
-	'Project Milestone No'	=>	"Numarul etapă a proiectului",
+    'SINGLE_ProjectMilestone'    =>    "Proiectul Milestone",
+    'LBL_ADD_RECORD'    =>    "Adăugați etapă a proiectului",
+    'LBL_RECORDS_LIST'    =>    "Lista Repere proiect",
+    'LBL_PROJECTS_LIST'    =>    "Lista proiectelor",
+    'LBL_TASKS_LIST'    =>    "Lista de sarcini",
+    'LBL_MILESTONES_LIST'    =>    "Lista Repere",
+    'LBL_PROJECT_MILESTONE_INFORMATION'    =>    "Detalii proiect Milestone",
+    'Project Milestone Name'    =>    "Proiectul Milestone Numele",
+    'Milestone Date'    =>    "Milestone Data",
+    'Project Milestone No'    =>    "Numarul etapă a proiectului",
         'Type'                         => 'Tip'                         , 
     'Related to'                   => 'Legate de'   ,
-	//picklist values
-	'administrative' => 'Administrativ',
+    //picklist values
+    'administrative' => 'Administrativ',
     'operative' => 'Operativ',
     'other' => 'Alte',
 );

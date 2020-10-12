@@ -8,7 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Mail Converter",
+    'MailConverter'   =>   "Mail Converter",
     'MailConverter_Description'   =>   "Konvertera e-post till respektive register",
     'MAILBOX'   =>   "Brevlåda",
     'RULE'   =>   "Regel",
@@ -177,4 +177,4 @@ $jsLanguageStrings = array(
     'JS_TIMEZONE_INFO' => 'Välj tidszon där din e-postserver ligger. Välja fel tidszon kan hoppa över några mail från skanning.',
     'JS_SCAN_FROM_INFO' => 'Det här fältet avgör om alla mail i din brevlåda ska skannas eller mail som har landat i brevlådan igår eller senare ska skannas. Det här fältet gäller endast för första gången konfiguration eller när du väljer en ny mapp för att skanna.',
     'JS_SELECT_ONE_FOLDER' => 'Du måste välja minst en mapp.',
-);	
+);    

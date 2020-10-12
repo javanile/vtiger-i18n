@@ -8,18 +8,18 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal'               => 'Portal de clientes'             ,
-	'LBL_PORTAL_DESCRIPTION'       => 'Establece los privilegios de configuración del Portal de usuarios', 
-	'LBL_PRIVILEGES'               => 'Privilegios'                  , 
-	'LBL_DEFAULT_ASSIGNEE'         => 'Asignado por defecto'            , 
-	'LBL_PORTAL_URL'               => 'Portal Url'                  , 
-	'LBL_MODULE_NAME'              => 'Nombre del módulo'                 , 
-	'LBL_ENABLE_MODULE'            => 'Habilitar módulo'               , 
-	'LBL_VIEW_ALL_RECORDS'         => 'Ver todos los registros en Cueta', 
-	'LBL_PREVILEGES_MESSAGE'       => 'Los privilegios de este usuario se aplicarán al Portal de usuario.', 
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Los casos o tickets serán asignados al Usuario seleccionado por el Grupo/Usuario por defecto desde el Portal de clientes.',
-	'LBL_PORTAL_URL_MESSAGE'       => 'Esta es la URL para el Portal donde sus contactos pueden entrar para levantar/rastrear casos o tickets, acceder a la base de knowledge base de conocimiento y más. Los detalles de acceso se le enviarán a los Contactos una vez que el acceso al Portal se active desde la página de detalles del Contacto.',
-	'LBL_DRAG_AND_DROP_MESSAGE'    => 'Módulos de Arrastrar y Soltar para ser reordenados en el Portal de clientes', 
+    'CustomerPortal'               => 'Portal de clientes'             ,
+    'LBL_PORTAL_DESCRIPTION'       => 'Establece los privilegios de configuración del Portal de usuarios', 
+    'LBL_PRIVILEGES'               => 'Privilegios'                  , 
+    'LBL_DEFAULT_ASSIGNEE'         => 'Asignado por defecto'            , 
+    'LBL_PORTAL_URL'               => 'Portal Url'                  , 
+    'LBL_MODULE_NAME'              => 'Nombre del módulo'                 , 
+    'LBL_ENABLE_MODULE'            => 'Habilitar módulo'               , 
+    'LBL_VIEW_ALL_RECORDS'         => 'Ver todos los registros en Cueta', 
+    'LBL_PREVILEGES_MESSAGE'       => 'Los privilegios de este usuario se aplicarán al Portal de usuario.', 
+    'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Los casos o tickets serán asignados al Usuario seleccionado por el Grupo/Usuario por defecto desde el Portal de clientes.',
+    'LBL_PORTAL_URL_MESSAGE'       => 'Esta es la URL para el Portal donde sus contactos pueden entrar para levantar/rastrear casos o tickets, acceder a la base de knowledge base de conocimiento y más. Los detalles de acceso se le enviarán a los Contactos una vez que el acceso al Portal se active desde la página de detalles del Contacto.',
+    'LBL_DRAG_AND_DROP_MESSAGE'    => 'Módulos de Arrastrar y Soltar para ser reordenados en el Portal de clientes', 
     "LBL_CONTACTS_ENABLE_MESSAGE"=>"Se le enviarán los detalles de acceso a los Contactos cuando el acceso al Portal sea habilitado en  la página de los detalles del Contacto.",
     "LBL_SUPPORT_NOTIFY_MESSAGE"=>"La alerta para renovar el contrato de soporte se activa en el Portal de clientes según el número de días que se hayan ingresado.",
     "LBL_ADD_DOCUMENT"=>"Agregar documento",
@@ -67,7 +67,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED'         => 'Configuración del Portal de clientes guardada.',
+    'JS_PORTAL_INFO_SAVED'         => 'Configuración del Portal de clientes guardada.',
     "LBL_ADD_DOCUMENT"=>"Agregar documento",
     "LBL_OPEN_TICKETS"=>"Casos abiertos",
     "LBL_CREATE_TICKET"=>"Crear Caso",

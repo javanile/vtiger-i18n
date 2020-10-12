@@ -15,7 +15,7 @@
  *  Author       : JPL TSolucio, S. L. Joe Bordes
  *************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Mail Converter",
+    'MailConverter'   =>   "Mail Converter",
     'MailConverter_Description'   =>   "Convertir mensajes de correo electrónico a los registros respectivos",
     'MAILBOX'   =>   "Buzón",
     'RULE'   =>   "Regla",
@@ -175,7 +175,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Buzón eliminado con éxito",
+    'JS_MAILBOX_DELETED_SUCCESSFULLY'   =>   "Buzón eliminado con éxito",
     'JS_MAILBOX_LOADED_SUCCESSFULLY'   =>   "Buzón cargado con éxito",
     'JS_SELECT_ATLEAST_ONE' => 'Por favor mapa al menos un campo',
     'JS_SERVER_NAME' => 'Introduzca el nombre del servidor',
@@ -184,4 +184,4 @@ $jsLanguageStrings = array(
     'JS_TIMEZONE_INFO' => 'Por favor, seleccione la zona horaria donde se encuentra el servidor de correo. Selección de zona horaria equivocada podría pasar por alto algunos mails de escaneo.',
     'JS_SCAN_FROM_INFO' => 'Este campo determina si todos los correos en tu buzón deben ser escaneados o electrónicos que ha aterrizado en el Buzón de ayer o temprano deben ser escaneados. Este campo sólo es aplicable para la configuración por primera vez o cuando se seleccione una nueva carpeta para escanear.',
     'JS_SELECT_ONE_FOLDER' => 'Debe seleccionar al menos una carpeta.',
-);	
+);    

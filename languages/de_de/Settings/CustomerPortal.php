@@ -8,18 +8,18 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal'               => 'Customer Portal'             , 
-	'LBL_PORTAL_DESCRIPTION'       => 'Setup Privileges of Portal User', 
-	'LBL_PRIVILEGES'               => 'Privileges'                  , 
-	'LBL_DEFAULT_ASSIGNEE'         => 'Default Assignee'            , 
-	'LBL_PORTAL_URL'               => 'Portal Url'                  , 
-	'LBL_MODULE_NAME'              => 'Module Name'                 , 
-	'LBL_ENABLE_MODULE'            => 'Enable Module'               , 
-	'LBL_VIEW_ALL_RECORDS'         => 'See Records across Organization', 
-	'LBL_PREVILEGES_MESSAGE'       => 'This User\'s privileges will be applied to the Portal User.', 
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cases / Tickets werden auf den ausgewählten Bearbeiter von der Standard-Gruppe / Benutzer aus dem Kundenportal zugeordnet werden.', 
-	'LBL_PORTAL_URL_MESSAGE'       => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more. Contacts will be sent the login details when Portal access is enabled from Contact details page.', 
-	'LBL_DRAG_AND_DROP_MESSAGE'    => 'Drag and Drop modules to reorder in the Customer Portal',
+    'CustomerPortal'               => 'Customer Portal'             , 
+    'LBL_PORTAL_DESCRIPTION'       => 'Setup Privileges of Portal User', 
+    'LBL_PRIVILEGES'               => 'Privileges'                  , 
+    'LBL_DEFAULT_ASSIGNEE'         => 'Default Assignee'            , 
+    'LBL_PORTAL_URL'               => 'Portal Url'                  , 
+    'LBL_MODULE_NAME'              => 'Module Name'                 , 
+    'LBL_ENABLE_MODULE'            => 'Enable Module'               , 
+    'LBL_VIEW_ALL_RECORDS'         => 'See Records across Organization', 
+    'LBL_PREVILEGES_MESSAGE'       => 'This User\'s privileges will be applied to the Portal User.', 
+    'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Cases / Tickets werden auf den ausgewählten Bearbeiter von der Standard-Gruppe / Benutzer aus dem Kundenportal zugeordnet werden.', 
+    'LBL_PORTAL_URL_MESSAGE'       => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more. Contacts will be sent the login details when Portal access is enabled from Contact details page.', 
+    'LBL_DRAG_AND_DROP_MESSAGE'    => 'Drag and Drop modules to reorder in the Customer Portal',
     "LBL_CONTACTS_ENABLE_MESSAGE"=>"Kontakte werden die Anmeldedaten gesendet werden, wenn Portal Zugriff von Kontaktdaten Seite aktiviert.",
     "LBL_SUPPORT_NOTIFY_MESSAGE"=>"Unterstützung Vertragsverlängerung Alarm auf dem Kundenportal auf der Basis der Anzahl der eingegebenen Tagen benachrichtigt.",
     "LBL_ADD_DOCUMENT"=>"Dokument hinzufügen",
@@ -67,7 +67,7 @@ $languageStrings = array(
 
 );
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED'         => 'Kundenportal Einstellungen gespeichert.',
+    'JS_PORTAL_INFO_SAVED'         => 'Kundenportal Einstellungen gespeichert.',
     "LBL_ADD_DOCUMENT"=>"Dokument hinzufügen",
     "LBL_OPEN_TICKETS"=>"Offene Tickets",
     "LBL_CREATE_TICKET"=>"Ticket erstellen",

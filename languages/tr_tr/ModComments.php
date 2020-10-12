@@ -8,14 +8,14 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_ModComments'           => 'Comment'                     , 
-	'LBL_RECORDS_LIST'             => 'Comments List'               , 
-	'LBL_MODCOMMENTS_INFORMATION'  => 'Comments'                    , 
-	'LBL_OTHER_INFORMATION'        => 'Other Information'           , 
-	'LBL_ADDING_COMMENT'           => 'Adding Comment'              , 
-	'LBL_WRITE_YOUR_COMMENT_HERE'  => 'Enter comments here'         , 
-	'Comment'                      => 'Comment'                     , 
-	'Creator'                      => 'Creator'                     , 
-	'Related To Comments'          => 'İlgili Kişi'               , 
-	'LBL_COMMENTED_AT'             => 'De yorumladı'               , 
+    'SINGLE_ModComments'           => 'Comment'                     , 
+    'LBL_RECORDS_LIST'             => 'Comments List'               , 
+    'LBL_MODCOMMENTS_INFORMATION'  => 'Comments'                    , 
+    'LBL_OTHER_INFORMATION'        => 'Other Information'           , 
+    'LBL_ADDING_COMMENT'           => 'Adding Comment'              , 
+    'LBL_WRITE_YOUR_COMMENT_HERE'  => 'Enter comments here'         , 
+    'Comment'                      => 'Comment'                     , 
+    'Creator'                      => 'Creator'                     , 
+    'Related To Comments'          => 'İlgili Kişi'               , 
+    'LBL_COMMENTED_AT'             => 'De yorumladı'               , 
 );

@@ -8,11 +8,11 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	//Actions
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Konvertera Lead Mappning',
-	'LBL_ORGANIZATIONS' => 'Organisationer',
-	'LBL_CONTACTS' => 'Kontakter',
-	'LBL_OPPURTUNITIES' => 'Affärsmöjligheter',
+    //Actions
+    'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Konvertera Lead Mappning',
+    'LBL_ORGANIZATIONS' => 'Organisationer',
+    'LBL_CONTACTS' => 'Kontakter',
+    'LBL_OPPURTUNITIES' => 'Affärsmöjligheter',
 );
 $jsLanguageStrings = array(
 );

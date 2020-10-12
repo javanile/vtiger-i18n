@@ -9,21 +9,21 @@
  * ***********************************************************************************/
 
 $languageStrings = Array(
-	'Home' => 'Principal',
-	'More' => 'Mais',
-	'Profile' => 'Perfil',
-	'Change Password' => 'Mudar Senha',
-	'Logout' => 'Desconectar',
-	'Welcome to Portal' => 'Bem Vindo(a) ao Portal',
-	'LBL_CREATE_TICKET' => 'Novo Chamado',
-	'LBL_OPEN_TICKETS' => 'Visualizar Chamados Abertos',
-	'LBL_ADD_DOCUMENT' => 'Transferir um Documento',
-	'What would you like to do ?' => 'O que gostaria de fazer?',
-	'_start for notify' => 'chaves',
-	'Your support ends on' => 'Seu Suporte acabou',
-	'_start for charts' => 'chaves',
-	'OpenTicketsByPriority' => 'Chamados Abertos por Prioridade',
-	'TicketsClosureTimeByPriority' => 'Tempo Fechamento Chamado por Prioridade',
-	'_start for widgets' => 'chaves',
-	'Recent' => 'Recente'
+    'Home' => 'Principal',
+    'More' => 'Mais',
+    'Profile' => 'Perfil',
+    'Change Password' => 'Mudar Senha',
+    'Logout' => 'Desconectar',
+    'Welcome to Portal' => 'Bem Vindo(a) ao Portal',
+    'LBL_CREATE_TICKET' => 'Novo Chamado',
+    'LBL_OPEN_TICKETS' => 'Visualizar Chamados Abertos',
+    'LBL_ADD_DOCUMENT' => 'Transferir um Documento',
+    'What would you like to do ?' => 'O que gostaria de fazer?',
+    '_start for notify' => 'chaves',
+    'Your support ends on' => 'Seu Suporte acabou',
+    '_start for charts' => 'chaves',
+    'OpenTicketsByPriority' => 'Chamados Abertos por Prioridade',
+    'TicketsClosureTimeByPriority' => 'Tempo Fechamento Chamado por Prioridade',
+    '_start for widgets' => 'chaves',
+    'Recent' => 'Recente'
 );

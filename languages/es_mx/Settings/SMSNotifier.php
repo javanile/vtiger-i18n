@@ -8,18 +8,18 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD'               => 'Nueva configuración'           , 
-	'SMSNotifier'                  => 'Configuración del proveedor de SMS'  ,
-	'LBL_ADD_CONFIGURATION'        => 'Nueva configuración'           ,
-	'LBL_EDIT_CONFIGURATION'       => 'Editar configuración'          , 
-	'LBL_SELECT_ONE'               => 'Seleccionar uno'                  , 
-	'providertype'                 => 'Proveedor'                    , 
-	'isactive'                     => 'Activo'                      , 
-	'username'                     => 'Nombre de usuario'                   , 
-	'password'                     => 'Contraseña'                    , 
+    'LBL_ADD_RECORD'               => 'Nueva configuración'           , 
+    'SMSNotifier'                  => 'Configuración del proveedor de SMS'  ,
+    'LBL_ADD_CONFIGURATION'        => 'Nueva configuración'           ,
+    'LBL_EDIT_CONFIGURATION'       => 'Editar configuración'          , 
+    'LBL_SELECT_ONE'               => 'Seleccionar uno'                  , 
+    'providertype'                 => 'Proveedor'                    , 
+    'isactive'                     => 'Activo'                      , 
+    'username'                     => 'Nombre de usuario'                   , 
+    'password'                     => 'Contraseña'                    , 
 );
 $jsLanguageStrings = array(
-	'LBL_DELETE_CONFIRMATION'      => '¿Está segura de que quiere eliminar esta configuración del Notificador SMS?',
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'El proveedor de SMS fue eliminado exitosamente',
-	'JS_CONFIGURATION_SAVED'       => 'Configuración del proveedor de SMS guardada', 
+    'LBL_DELETE_CONFIRMATION'      => '¿Está segura de que quiere eliminar esta configuración del Notificador SMS?',
+    'JS_RECORD_DELETED_SUCCESSFULLY' => 'El proveedor de SMS fue eliminado exitosamente',
+    'JS_CONFIGURATION_SAVED'       => 'Configuración del proveedor de SMS guardada', 
 );

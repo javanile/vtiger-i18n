@@ -8,15 +8,15 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'PriceBooks'                   => 'Fiyat Listeleri'             , 
-	'SINGLE_PriceBooks'            => 'Fiyat Listesi'               , 
-	'LBL_ADD_RECORD'               => 'Add Price Book'              , 
-	'LBL_RECORDS_LIST'             => 'Price Books List'            , 
-	'LBL_PRICEBOOK_INFORMATION'    => 'Fiyat Listesi Bilgisi:'      , 
-	'LBL_EDIT_LIST_PRICE'          => 'Edit List Price'             , 
-	'Price Book Name'              => 'Fiyat Listesi Adı'          , 
-	'PriceBook No'                 => 'PriceBook Number'            , 
-	
-	'LBL_UNIT_PRICE' => 'Birim Fiyatı',
-	'LBL_ADD_TO' => 'Eklemek karşı',
+    'PriceBooks'                   => 'Fiyat Listeleri'             , 
+    'SINGLE_PriceBooks'            => 'Fiyat Listesi'               , 
+    'LBL_ADD_RECORD'               => 'Add Price Book'              , 
+    'LBL_RECORDS_LIST'             => 'Price Books List'            , 
+    'LBL_PRICEBOOK_INFORMATION'    => 'Fiyat Listesi Bilgisi:'      , 
+    'LBL_EDIT_LIST_PRICE'          => 'Edit List Price'             , 
+    'Price Book Name'              => 'Fiyat Listesi Adı'          , 
+    'PriceBook No'                 => 'PriceBook Number'            , 
+    
+    'LBL_UNIT_PRICE' => 'Birim Fiyatı',
+    'LBL_ADD_TO' => 'Eklemek karşı',
 );

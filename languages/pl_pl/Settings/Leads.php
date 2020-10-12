@@ -8,10 +8,10 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Konwersja Mapowanie Lead'  , // TODO: Review
-	'LBL_ORGANIZATIONS'            => 'organizacje'                 , // TODO: Review
-	'LBL_CONTACTS'                 => 'Kontakt'                     , // TODO: Review
-	'LBL_OPPURTUNITIES'            => 'oppurtunities'               , // TODO: Review
+    'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Konwersja Mapowanie Lead'  , // TODO: Review
+    'LBL_ORGANIZATIONS'            => 'organizacje'                 , // TODO: Review
+    'LBL_CONTACTS'                 => 'Kontakt'                     , // TODO: Review
+    'LBL_OPPURTUNITIES'            => 'oppurtunities'               , // TODO: Review
 );
 $jsLanguageStrings = array(
 );

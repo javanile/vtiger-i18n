@@ -8,15 +8,15 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_CUSTOM_RULE' => 'Dodaj przykładową role',
-	'Read Only' => 'R',
-	'Read Write' => 'R+W',
-	'LBL_CREATE_CUSTOM_RULE' => 'Dodaj nową przykładową role',
-	'LBL_CAN_ACCESSED_BY' => 'Może być dostępna przez',
-	'LBL_PRIVILEGES' => 'Uprawnienia',
-	'LBL_SHARING_RULE' =>  'Zasady udostępniania',
-	'LBL_RULE_NO' => 'Numer reguły',
-	'LBL_PRIVILAGES' => 'Uprawnienia',
+    'LBL_ADD_CUSTOM_RULE' => 'Dodaj przykładową role',
+    'Read Only' => 'R',
+    'Read Write' => 'R+W',
+    'LBL_CREATE_CUSTOM_RULE' => 'Dodaj nową przykładową role',
+    'LBL_CAN_ACCESSED_BY' => 'Może być dostępna przez',
+    'LBL_PRIVILEGES' => 'Uprawnienia',
+    'LBL_SHARING_RULE' =>  'Zasady udostępniania',
+    'LBL_RULE_NO' => 'Numer reguły',
+    'LBL_PRIVILAGES' => 'Uprawnienia',
 
   'SharingAccess' => 'Zasady Udostępniania',
   'Accounts' => 'Organizacji I Kontaktów',

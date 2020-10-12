@@ -9,5 +9,5 @@
  * ***********************************************************************************/
 
 $languageStrings = array(
-	'LBL_POTENTIAL_FIELD_MAPPING' => 'Mapeamento Campos Oportunidades',
+    'LBL_POTENTIAL_FIELD_MAPPING' => 'Mapeamento Campos Oportunidades',
 );

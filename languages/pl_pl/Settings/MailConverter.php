@@ -8,7 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'MailConverter'   =>   "Poczta Converter",
+    'MailConverter'   =>   "Poczta Converter",
     'MailConverter_Description'   =>   "Konwersja wiadomości e-mail do odpowiednich rejestrów",
     'MAILBOX'   =>   "Mailbox",
     'RULE'   =>   "Zasada",
@@ -177,4 +177,4 @@ $jsLanguageStrings = array(
     'JS_TIMEZONE_INFO' => 'Wybierz strefę czasową, w której twój serwer pocztowy znajduje. Wybór złego czasowej może pominąć niektóre maile ze skanowania.',
     'JS_SCAN_FROM_INFO' => 'Pole to określa, czy wszystkie maile w skrzynce pocztowej powinny być zeskanowane lub mail, który wylądował w skrzynce pocztowej wczoraj czy później powinny być skanowane. Pole to ma zastosowanie tylko do konfiguracji raz pierwszy lub po wybraniu nowego folderu do skanowania.',
     'JS_SELECT_ONE_FOLDER' => 'Musisz wybrać conajmniej jeden folder.',
-);	
+);    

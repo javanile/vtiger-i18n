@@ -21,7 +21,7 @@ $languageStrings = Array(
 );
 
 $jsLanguageStrings = array(
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'RSS har sparats',
+    'JS_RSS_SUCCESSFULLY_SAVED' => 'RSS har sparats',
     'JS_INVALID_RSS_URL' => 'Ogiltig Rss webbadress',
     'JS_RSS_MADE_AS_DEFAULT' => 'Rss som förval',
     
