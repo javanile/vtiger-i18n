@@ -138,8 +138,8 @@ $languageStrings = [
     'Assigned To'      => 'Assigned To',
 
     //Loading Labels
-    'LBL_LOADING'                   => 'Loading',
-    'LBL_LOADING_WIDGET'            => 'Loading Widget',
+    'LBL_LOADING'                      => 'Loading',
+    'LBL_LOADING_WIDGET'               => 'Loading Widget',
     'LBL_LOADING_LISTVIEW_CONTENTS'    => 'Loading, Please wait.',
 
     // Detail View
