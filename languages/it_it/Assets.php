@@ -7,25 +7,25 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  ************************************************************************************/
-$languageStrings = array(
-	'SINGLE_Assets'                => 'Asset'                       , 
-	'LBL_ADD_RECORD'               => 'Add Assets'                  , 
-	'LBL_RECORDS_LIST'             => 'Assets List'                 , 
-	'LBL_ASSET_INFORMATION'        => 'Assest Details'              , 
-	'Asset No'                     => 'Asset No'                    , 
-	'Serial Number'                => 'Serial Number'               , 
-	'Date Sold'                    => 'Date Sold'                   , 
-	'Date in Service'              => 'Date in Service'             , 
-	'Tag Number'                   => 'Tag Number'                  , 
-	'Invoice Name'                 => 'Invoice Name'                , 
-	'Shipping Method'              => 'Shipping Method'             , 
-	'Shipping Tracking Number'     => 'Shipping Tracking Number'    , 
-	'Asset Name'                   => 'Asset Name'                  , 
-	'Customer Name'                => 'Nome del Cliente'            , 
-	'Notes'                        => 'Notes'                       , 
-	'In Service'                   => 'In Service'                  , 
-	'Out-of-service'               => 'Out-of-service'              , 
+$languageStrings = [
+    'SINGLE_Assets'                => 'Asset',
+    'LBL_ADD_RECORD'               => 'Add Assets',
+    'LBL_RECORDS_LIST'             => 'Assets List',
+    'LBL_ASSET_INFORMATION'        => 'Assest Details',
+    'Asset No'                     => 'Asset No',
+    'Serial Number'                => 'Serial Number',
+    'Date Sold'                    => 'Date Sold',
+    'Date in Service'              => 'Date in Service',
+    'Tag Number'                   => 'Tag Number',
+    'Invoice Name'                 => 'Invoice Name',
+    'Shipping Method'              => 'Shipping Method',
+    'Shipping Tracking Number'     => 'Shipping Tracking Number',
+    'Asset Name'                   => 'Asset Name',
+    'Customer Name'                => 'Nome del Cliente',
+    'Notes'                        => 'Notes',
+    'In Service'                   => 'In Service',
+    'Out-of-service'               => 'Out-of-service',
 
-  'Assets' => 'Attività',
+    'Assets' => 'Attività',
 
-);
+];

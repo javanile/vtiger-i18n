@@ -7,21 +7,21 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  *************************************************************************************/
-$languageStrings = array(
-	'CronTasks' => 'Scheduler',
+$languageStrings = [
+    'CronTasks' => 'Scheduler',
 
-	//Basic Field Names
-	'Id' => 'Id',
-	'Cron Job' => 'Cron Job',
-	'Frequency' => 'Frequency',
-	'Status' => 'Status',
-	'Last Start' => 'Last scan started',
-	'Last End' => 'Last scan ended',
-	'Sequence' => 'Sequence',
+    //Basic Field Names
+    'Id'         => 'Id',
+    'Cron Job'   => 'Cron Job',
+    'Frequency'  => 'Frequency',
+    'Status'     => 'Status',
+    'Last Start' => 'Last scan started',
+    'Last End'   => 'Last scan ended',
+    'Sequence'   => 'Sequence',
 
-	//Actions
-	'LBL_COMPLETED' => 'Completed',
-	'LBL_RUNNING' => 'Running',
-	'LBL_ACTIVE' => 'Active',
-	'LBL_INACTIVE' => 'In Active',
-);
+    //Actions
+    'LBL_COMPLETED' => 'Completed',
+    'LBL_RUNNING'   => 'Running',
+    'LBL_ACTIVE'    => 'Active',
+    'LBL_INACTIVE'  => 'In Active',
+];

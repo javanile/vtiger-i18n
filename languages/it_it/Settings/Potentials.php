@@ -7,7 +7,6 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  *************************************************************************************/
-$languageStrings = array(
+$languageStrings = [
     'LBL_POTENTIAL_FIELD_MAPPING' => 'Opportunità Mapping Campo',
-);
-?>
+];
