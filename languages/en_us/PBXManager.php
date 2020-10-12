@@ -7,34 +7,34 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  *************************************************************************************/
-$languageStrings = array(
-	'Asterisk' => 'Asterisk',
-	'Call From'=>'Call From',
-	'Call To'=>'Call To',
-	'LBL_CALL_INFORMATION' => 'Call Details',
-	'PBXManager ID'=>'PBX Manager ID',
-	'PBXManager' => 'PBX Manager',
-	'SINGLE_PBXManager' => 'PBX Manager',
-	'Time Of Call'=>'Time Of Call',
+$languageStrings = [
+    'Asterisk'             => 'Asterisk',
+    'Call From'            => 'Call From',
+    'Call To'              => 'Call To',
+    'LBL_CALL_INFORMATION' => 'Call Details',
+    'PBXManager ID'        => 'PBX Manager ID',
+    'PBXManager'           => 'PBX Manager',
+    'SINGLE_PBXManager'    => 'PBX Manager',
+    'Time Of Call'         => 'Time Of Call',
     //Blocks
     'LBL_PBXMANAGER_INFORMATION' => 'Call Details',
-    'LBL_CUSTOM_INFORMATION'=>'Custom Information',
-    
+    'LBL_CUSTOM_INFORMATION'     => 'Custom Information',
+
     // list view settings links
     'LBL_SERVER_CONFIGURATION' => 'Provider Configuration',
-    
+
     //Detail view header title
     'LBL_CALL_FROM' => 'Call From',
-    'LBL_CALL_TO' => 'Call To',
-    
-    //Incoming call pop-up 
-    'LBL_HIDDEN' => '(HIDDEN)', 
-  
+    'LBL_CALL_TO'   => 'Call To',
+
+    //Incoming call pop-up
+    'LBL_HIDDEN' => '(HIDDEN)',
+
     // Fields
     'Total Duration' => 'Duration (sec)',
     'Bill Duration'  => 'Bill Duration (sec)',
-    'Recording URL' => 'Recording',
-    
-    'SINGLE_PBXManager' => 'Call Record' ,
+    'Recording URL'  => 'Recording',
 
-);
+    'SINGLE_PBXManager' => 'Call Record',
+
+];

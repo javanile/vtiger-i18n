@@ -8,6 +8,6 @@
  * All Rights Reserved.
  * ***********************************************************************************/
 
-$languageStrings = array(
-	'LBL_POTENTIAL_FIELD_MAPPING' => 'Opportunities Field Mapping',
-);
+$languageStrings = [
+    'LBL_POTENTIAL_FIELD_MAPPING' => 'Opportunities Field Mapping',
+];
